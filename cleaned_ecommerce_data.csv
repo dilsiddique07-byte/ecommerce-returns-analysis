@@ -1,0 +1,1201 @@
+Order_ID,Date,Category,Region,Price,Quantity,Total_Sales,Returned,Return_Status
+ORD-1000,2025-04-13,Electronics,West,4272,1,4272,0,Delivered
+ORD-1001,2025-06-29,Electronics,North,2457,3,7371,1,Returned
+ORD-1002,2025-04-03,Electronics,South,2988,1,2988,0,Delivered
+ORD-1003,2025-01-15,Clothing,South,596,1,596,0,Delivered
+ORD-1004,2025-04-17,Home & Kitchen,South,2278,1,2278,0,Delivered
+ORD-1005,2025-03-13,Electronics,West,4944,1,4944,0,Delivered
+ORD-1006,2025-01-21,Footwear,West,4624,3,13872,0,Delivered
+ORD-1007,2025-04-13,Clothing,East,3437,2,6874,0,Delivered
+ORD-1008,2025-05-02,Clothing,North,4093,2,8186,1,Returned
+ORD-1009,2025-03-16,Clothing,East,2205,2,4410,1,Returned
+ORD-1010,2025-03-29,Clothing,South,2216,3,6648,0,Delivered
+ORD-1011,2025-04-27,Home & Kitchen,West,3371,1,3371,0,Delivered
+ORD-1012,2025-04-10,Electronics,West,2868,2,5736,0,Delivered
+ORD-1013,2025-04-14,Electronics,East,2078,3,6234,0,Delivered
+ORD-1014,2025-06-01,Footwear,West,1396,1,1396,0,Delivered
+ORD-1015,2025-05-11,Beauty,South,1972,2,3944,0,Delivered
+ORD-1016,2025-05-30,Clothing,West,361,1,361,0,Delivered
+ORD-1017,2025-02-22,Clothing,East,4176,2,8352,1,Returned
+ORD-1018,2025-01-02,Home & Kitchen,South,1951,2,3902,0,Delivered
+ORD-1019,2025-03-29,Clothing,East,975,2,1950,0,Delivered
+ORD-1020,2025-06-07,Electronics,West,1139,1,1139,0,Delivered
+ORD-1021,2025-02-07,Electronics,East,3420,3,10260,1,Returned
+ORD-1022,2025-05-10,Home & Kitchen,East,739,1,739,0,Delivered
+ORD-1023,2025-01-21,Home & Kitchen,North,1661,2,3322,0,Delivered
+ORD-1024,2025-06-10,Electronics,West,555,1,555,0,Delivered
+ORD-1025,2025-02-27,Electronics,West,3804,3,11412,0,Delivered
+ORD-1026,2025-01-22,Electronics,East,3523,1,3523,0,Delivered
+ORD-1027,2025-03-30,Home & Kitchen,North,434,3,1302,0,Delivered
+ORD-1028,2025-02-18,Electronics,West,1748,3,5244,0,Delivered
+ORD-1029,2025-02-28,Electronics,South,2296,1,2296,0,Delivered
+ORD-1030,2025-06-19,Footwear,East,4413,2,8826,0,Delivered
+ORD-1031,2025-01-15,Electronics,West,2301,3,6903,0,Delivered
+ORD-1032,2025-06-24,Home & Kitchen,South,1873,1,1873,0,Delivered
+ORD-1033,2025-02-20,Electronics,West,2300,3,6900,0,Delivered
+ORD-1034,2025-04-18,Electronics,South,3857,2,7714,0,Delivered
+ORD-1035,2025-02-24,Electronics,East,4853,1,4853,0,Delivered
+ORD-1036,2025-03-05,Home & Kitchen,West,3796,1,3796,0,Delivered
+ORD-1037,2025-05-11,Footwear,West,3948,1,3948,0,Delivered
+ORD-1038,2025-02-20,Footwear,North,3373,2,6746,1,Returned
+ORD-1039,2025-05-15,Clothing,East,2015,3,6045,1,Returned
+ORD-1040,2025-01-21,Home & Kitchen,South,4041,1,4041,0,Delivered
+ORD-1041,2025-03-14,Electronics,West,2205,3,6615,0,Delivered
+ORD-1042,2025-06-16,Clothing,West,4693,3,14079,0,Delivered
+ORD-1043,2025-01-18,Footwear,South,874,2,1748,1,Returned
+ORD-1044,2025-05-12,Electronics,East,586,1,586,0,Delivered
+ORD-1045,2025-03-30,Electronics,North,2358,3,7074,0,Delivered
+ORD-1046,2025-03-01,Electronics,North,2861,1,2861,0,Delivered
+ORD-1047,2025-01-14,Electronics,West,2264,1,2264,0,Delivered
+ORD-1048,2025-01-09,Electronics,South,4051,2,8102,0,Delivered
+ORD-1049,2025-03-31,Home & Kitchen,West,3453,1,3453,0,Delivered
+ORD-1050,2025-02-22,Clothing,South,4836,1,4836,1,Returned
+ORD-1051,2025-05-10,Footwear,North,4466,3,13398,0,Delivered
+ORD-1052,2025-03-25,Footwear,East,939,2,1878,0,Delivered
+ORD-1053,2025-04-02,Clothing,South,1601,1,1601,0,Delivered
+ORD-1054,2025-04-21,Clothing,North,3459,3,10377,1,Returned
+ORD-1055,2025-06-21,Clothing,West,2477,2,4954,0,Delivered
+ORD-1056,2025-01-08,Home & Kitchen,South,4104,2,8208,0,Delivered
+ORD-1057,2025-06-24,Clothing,East,4123,3,12369,1,Returned
+ORD-1058,2025-02-04,Home & Kitchen,West,4414,3,13242,0,Delivered
+ORD-1059,2025-03-22,Clothing,West,3427,3,10281,0,Delivered
+ORD-1060,2025-06-13,Home & Kitchen,North,3031,3,9093,0,Delivered
+ORD-1061,2025-02-19,Clothing,South,3958,3,11874,1,Returned
+ORD-1062,2025-04-14,Clothing,West,2712,1,2712,1,Returned
+ORD-1063,2025-05-12,Beauty,East,2351,1,2351,0,Delivered
+ORD-1064,2025-01-02,Footwear,South,3875,2,7750,1,Returned
+ORD-1065,2025-05-14,Electronics,East,2945,1,2945,0,Delivered
+ORD-1066,2025-02-23,Footwear,West,4066,1,4066,1,Returned
+ORD-1067,2025-04-16,Clothing,East,3964,1,3964,1,Returned
+ORD-1068,2025-01-04,Footwear,North,2422,3,7266,0,Delivered
+ORD-1069,2025-02-23,Footwear,East,2992,2,5984,0,Delivered
+ORD-1070,2025-05-26,Clothing,South,1897,2,3794,1,Returned
+ORD-1071,2025-02-13,Electronics,East,3662,2,7324,0,Delivered
+ORD-1072,2025-06-11,Clothing,East,4263,2,8526,0,Delivered
+ORD-1073,2025-01-14,Clothing,North,1724,1,1724,1,Returned
+ORD-1074,2025-04-05,Home & Kitchen,East,4960,1,4960,0,Delivered
+ORD-1075,2025-02-17,Clothing,East,232,3,696,1,Returned
+ORD-1076,2025-01-15,Electronics,West,4225,2,8450,0,Delivered
+ORD-1077,2025-02-09,Footwear,West,2766,1,2766,0,Delivered
+ORD-1078,2025-03-23,Beauty,South,3003,1,3003,0,Delivered
+ORD-1079,2025-04-21,Clothing,West,4096,3,12288,0,Delivered
+ORD-1080,2025-02-22,Electronics,West,3909,3,11727,0,Delivered
+ORD-1081,2025-01-24,Clothing,West,919,3,2757,1,Returned
+ORD-1082,2025-06-03,Electronics,West,4779,1,4779,0,Delivered
+ORD-1083,2025-05-04,Beauty,North,1172,1,1172,0,Delivered
+ORD-1084,2025-02-10,Electronics,West,3918,3,11754,0,Delivered
+ORD-1085,2025-06-06,Home & Kitchen,North,4602,2,9204,0,Delivered
+ORD-1086,2025-01-15,Clothing,North,4752,3,14256,0,Delivered
+ORD-1087,2025-02-14,Home & Kitchen,West,2407,3,7221,0,Delivered
+ORD-1088,2025-03-06,Home & Kitchen,East,4626,3,13878,0,Delivered
+ORD-1089,2025-03-30,Footwear,North,4520,3,13560,0,Delivered
+ORD-1090,2025-03-12,Electronics,East,3230,1,3230,0,Delivered
+ORD-1091,2025-01-09,Electronics,East,3775,2,7550,1,Returned
+ORD-1092,2025-03-29,Electronics,West,3316,3,9948,0,Delivered
+ORD-1093,2025-05-09,Beauty,South,3485,2,6970,0,Delivered
+ORD-1094,2025-05-16,Footwear,West,843,2,1686,0,Delivered
+ORD-1095,2025-03-04,Home & Kitchen,South,4911,2,9822,0,Delivered
+ORD-1096,2025-05-19,Home & Kitchen,South,394,3,1182,0,Delivered
+ORD-1097,2025-03-22,Home & Kitchen,West,4196,1,4196,0,Delivered
+ORD-1098,2025-05-16,Electronics,West,688,3,2064,1,Returned
+ORD-1099,2025-06-12,Beauty,South,2404,2,4808,0,Delivered
+ORD-1100,2025-06-12,Clothing,West,2857,2,5714,0,Delivered
+ORD-1101,2025-02-02,Clothing,South,3476,1,3476,0,Delivered
+ORD-1102,2025-05-03,Clothing,East,1302,3,3906,0,Delivered
+ORD-1103,2025-01-05,Electronics,West,1441,2,2882,0,Delivered
+ORD-1104,2025-02-10,Electronics,East,715,1,715,0,Delivered
+ORD-1105,2025-01-28,Home & Kitchen,North,592,2,1184,0,Delivered
+ORD-1106,2025-05-15,Electronics,East,830,1,830,0,Delivered
+ORD-1107,2025-03-13,Home & Kitchen,East,3916,1,3916,0,Delivered
+ORD-1108,2025-01-12,Electronics,South,2047,3,6141,0,Delivered
+ORD-1109,2025-06-11,Clothing,East,2855,2,5710,0,Delivered
+ORD-1110,2025-02-02,Clothing,West,1179,3,3537,0,Delivered
+ORD-1111,2025-02-17,Clothing,South,4729,2,9458,0,Delivered
+ORD-1112,2025-05-31,Home & Kitchen,North,3602,3,10806,0,Delivered
+ORD-1113,2025-03-03,Clothing,West,4071,2,8142,1,Returned
+ORD-1114,2025-02-06,Home & Kitchen,North,477,3,1431,0,Delivered
+ORD-1115,2025-04-09,Clothing,East,432,1,432,1,Returned
+ORD-1116,2025-06-21,Home & Kitchen,West,1752,2,3504,0,Delivered
+ORD-1117,2025-04-14,Beauty,West,3470,2,6940,0,Delivered
+ORD-1118,2025-02-04,Home & Kitchen,North,2609,1,2609,0,Delivered
+ORD-1119,2025-04-11,Electronics,West,3712,3,11136,1,Returned
+ORD-1120,2025-06-24,Electronics,West,225,2,450,0,Delivered
+ORD-1121,2025-05-11,Clothing,West,660,2,1320,1,Returned
+ORD-1122,2025-01-01,Home & Kitchen,East,3964,3,11892,0,Delivered
+ORD-1123,2025-01-05,Electronics,North,3631,1,3631,1,Returned
+ORD-1124,2025-05-22,Clothing,West,3683,3,11049,1,Returned
+ORD-1125,2025-04-13,Home & Kitchen,South,2194,3,6582,0,Delivered
+ORD-1126,2025-01-27,Clothing,South,690,3,2070,0,Delivered
+ORD-1127,2025-05-17,Footwear,South,1272,2,2544,0,Delivered
+ORD-1128,2025-01-15,Electronics,South,3373,1,3373,1,Returned
+ORD-1129,2025-03-31,Electronics,East,415,1,415,0,Delivered
+ORD-1130,2025-02-11,Home & Kitchen,West,1923,3,5769,0,Delivered
+ORD-1131,2025-05-04,Clothing,North,1792,2,3584,0,Delivered
+ORD-1132,2025-06-28,Home & Kitchen,West,2806,3,8418,0,Delivered
+ORD-1133,2025-03-04,Clothing,East,358,2,716,0,Delivered
+ORD-1134,2025-04-06,Electronics,South,4981,2,9962,1,Returned
+ORD-1135,2025-02-21,Footwear,East,3513,2,7026,0,Delivered
+ORD-1136,2025-04-06,Footwear,West,3041,2,6082,0,Delivered
+ORD-1137,2025-05-12,Home & Kitchen,North,1976,1,1976,0,Delivered
+ORD-1138,2025-05-31,Clothing,East,2252,2,4504,1,Returned
+ORD-1139,2025-05-23,Home & Kitchen,North,2495,2,4990,0,Delivered
+ORD-1140,2025-06-20,Clothing,East,1896,3,5688,1,Returned
+ORD-1141,2025-01-29,Electronics,North,3193,3,9579,1,Returned
+ORD-1142,2025-02-05,Beauty,North,2669,1,2669,0,Delivered
+ORD-1143,2025-01-13,Electronics,South,2146,3,6438,0,Delivered
+ORD-1144,2025-06-09,Beauty,North,4009,2,8018,0,Delivered
+ORD-1145,2025-03-12,Clothing,South,2983,3,8949,0,Delivered
+ORD-1146,2025-03-27,Electronics,West,3844,1,3844,0,Delivered
+ORD-1147,2025-01-28,Clothing,West,2700,3,8100,0,Delivered
+ORD-1148,2025-03-07,Footwear,South,3845,3,11535,1,Returned
+ORD-1149,2025-06-19,Home & Kitchen,South,2845,1,2845,0,Delivered
+ORD-1150,2025-02-14,Footwear,East,2549,1,2549,0,Delivered
+ORD-1151,2025-03-03,Home & Kitchen,East,2132,2,4264,0,Delivered
+ORD-1152,2025-05-14,Home & Kitchen,East,3494,3,10482,0,Delivered
+ORD-1153,2025-01-28,Footwear,West,1957,2,3914,1,Returned
+ORD-1154,2025-01-28,Electronics,East,1316,3,3948,0,Delivered
+ORD-1155,2025-04-18,Clothing,North,2767,3,8301,0,Delivered
+ORD-1156,2025-02-13,Electronics,North,3699,2,7398,0,Delivered
+ORD-1157,2025-03-25,Beauty,East,692,3,2076,0,Delivered
+ORD-1158,2025-01-30,Beauty,North,3506,3,10518,0,Delivered
+ORD-1159,2025-03-16,Electronics,West,819,3,2457,0,Delivered
+ORD-1160,2025-05-08,Home & Kitchen,North,3432,1,3432,0,Delivered
+ORD-1161,2025-04-02,Beauty,West,4023,2,8046,0,Delivered
+ORD-1162,2025-05-09,Electronics,South,2580,1,2580,0,Delivered
+ORD-1163,2025-05-01,Home & Kitchen,South,1746,2,3492,0,Delivered
+ORD-1164,2025-01-27,Beauty,South,3763,2,7526,1,Returned
+ORD-1165,2025-05-01,Electronics,South,1805,3,5415,0,Delivered
+ORD-1166,2025-04-26,Home & Kitchen,North,3952,2,7904,0,Delivered
+ORD-1167,2025-01-03,Clothing,East,4875,1,4875,1,Returned
+ORD-1168,2025-04-13,Beauty,North,2090,1,2090,0,Delivered
+ORD-1169,2025-06-04,Beauty,West,1475,1,1475,0,Delivered
+ORD-1170,2025-05-17,Beauty,North,2943,2,5886,0,Delivered
+ORD-1171,2025-03-03,Clothing,North,2693,1,2693,0,Delivered
+ORD-1172,2025-06-14,Footwear,West,556,2,1112,0,Delivered
+ORD-1173,2025-02-20,Footwear,South,1069,1,1069,0,Delivered
+ORD-1174,2025-06-21,Clothing,South,1085,1,1085,0,Delivered
+ORD-1175,2025-06-01,Footwear,South,2201,2,4402,0,Delivered
+ORD-1176,2025-02-28,Electronics,East,1483,1,1483,0,Delivered
+ORD-1177,2025-04-28,Home & Kitchen,West,819,3,2457,0,Delivered
+ORD-1178,2025-06-09,Electronics,West,1082,2,2164,1,Returned
+ORD-1179,2025-04-06,Electronics,North,996,2,1992,0,Delivered
+ORD-1180,2025-06-29,Electronics,East,3842,2,7684,0,Delivered
+ORD-1181,2025-04-23,Home & Kitchen,South,3625,3,10875,1,Returned
+ORD-1182,2025-03-03,Clothing,East,1496,2,2992,0,Delivered
+ORD-1183,2025-02-21,Home & Kitchen,West,4914,1,4914,0,Delivered
+ORD-1184,2025-01-12,Electronics,West,444,1,444,0,Delivered
+ORD-1185,2025-02-08,Clothing,North,3095,1,3095,1,Returned
+ORD-1186,2025-05-10,Clothing,North,1129,2,2258,1,Returned
+ORD-1187,2025-05-11,Footwear,West,719,1,719,1,Returned
+ORD-1188,2025-04-23,Clothing,South,3412,2,6824,1,Returned
+ORD-1189,2025-04-11,Home & Kitchen,South,2609,1,2609,0,Delivered
+ORD-1190,2025-04-23,Footwear,East,207,3,621,1,Returned
+ORD-1191,2025-03-22,Home & Kitchen,West,2725,3,8175,0,Delivered
+ORD-1192,2025-04-23,Electronics,West,3623,3,10869,0,Delivered
+ORD-1193,2025-01-02,Electronics,South,2219,3,6657,0,Delivered
+ORD-1194,2025-05-10,Footwear,South,4790,2,9580,0,Delivered
+ORD-1195,2025-02-23,Electronics,West,4482,1,4482,0,Delivered
+ORD-1196,2025-03-28,Footwear,North,3867,3,11601,0,Delivered
+ORD-1197,2025-05-09,Clothing,West,3871,2,7742,0,Delivered
+ORD-1198,2025-05-27,Beauty,West,3001,3,9003,0,Delivered
+ORD-1199,2025-05-06,Footwear,South,285,3,855,0,Delivered
+ORD-1200,2025-05-10,Beauty,South,3315,2,6630,0,Delivered
+ORD-1201,2025-02-22,Clothing,North,4432,2,8864,0,Delivered
+ORD-1202,2025-06-21,Footwear,North,2668,1,2668,0,Delivered
+ORD-1203,2025-06-09,Clothing,East,3819,1,3819,0,Delivered
+ORD-1204,2025-06-09,Clothing,West,1836,3,5508,1,Returned
+ORD-1205,2025-03-09,Home & Kitchen,South,3783,3,11349,0,Delivered
+ORD-1206,2025-05-03,Footwear,North,4209,1,4209,0,Delivered
+ORD-1207,2025-05-25,Beauty,East,3526,1,3526,0,Delivered
+ORD-1208,2025-02-07,Footwear,East,2418,2,4836,1,Returned
+ORD-1209,2025-01-24,Clothing,South,2417,1,2417,1,Returned
+ORD-1210,2025-03-10,Clothing,South,2569,1,2569,0,Delivered
+ORD-1211,2025-04-26,Home & Kitchen,East,3838,3,11514,0,Delivered
+ORD-1212,2025-04-08,Electronics,North,2703,1,2703,0,Delivered
+ORD-1213,2025-05-19,Electronics,East,1143,3,3429,0,Delivered
+ORD-1214,2025-05-24,Clothing,West,3037,1,3037,0,Delivered
+ORD-1215,2025-04-07,Clothing,West,2860,2,5720,1,Returned
+ORD-1216,2025-05-04,Clothing,South,3136,1,3136,0,Delivered
+ORD-1217,2025-03-11,Electronics,North,4644,1,4644,0,Delivered
+ORD-1218,2025-04-03,Electronics,North,4147,1,4147,0,Delivered
+ORD-1219,2025-01-03,Electronics,West,1876,3,5628,0,Delivered
+ORD-1220,2025-05-28,Beauty,East,1396,2,2792,0,Delivered
+ORD-1221,2025-06-13,Clothing,South,4305,1,4305,0,Delivered
+ORD-1222,2025-05-27,Clothing,East,2987,3,8961,0,Delivered
+ORD-1223,2025-03-31,Home & Kitchen,East,1661,2,3322,0,Delivered
+ORD-1224,2025-05-27,Electronics,East,3518,3,10554,0,Delivered
+ORD-1225,2025-05-28,Beauty,North,866,3,2598,0,Delivered
+ORD-1226,2025-04-06,Footwear,West,2376,2,4752,0,Delivered
+ORD-1227,2025-02-21,Electronics,North,3943,1,3943,0,Delivered
+ORD-1228,2025-06-10,Clothing,West,800,3,2400,0,Delivered
+ORD-1229,2025-06-17,Footwear,South,2852,3,8556,0,Delivered
+ORD-1230,2025-05-08,Beauty,South,4622,1,4622,0,Delivered
+ORD-1231,2025-02-08,Clothing,East,4024,1,4024,1,Returned
+ORD-1232,2025-03-23,Home & Kitchen,West,4106,2,8212,0,Delivered
+ORD-1233,2025-04-14,Electronics,West,1179,2,2358,0,Delivered
+ORD-1234,2025-05-09,Beauty,West,2651,2,5302,0,Delivered
+ORD-1235,2025-01-11,Electronics,East,828,1,828,0,Delivered
+ORD-1236,2025-06-27,Beauty,East,1829,3,5487,0,Delivered
+ORD-1237,2025-05-31,Home & Kitchen,South,3896,3,11688,0,Delivered
+ORD-1238,2025-06-08,Home & Kitchen,North,3630,2,7260,0,Delivered
+ORD-1239,2025-02-11,Clothing,West,3874,1,3874,0,Delivered
+ORD-1240,2025-04-09,Electronics,West,4129,3,12387,0,Delivered
+ORD-1241,2025-01-07,Electronics,North,2965,2,5930,0,Delivered
+ORD-1242,2025-05-24,Electronics,West,4569,3,13707,0,Delivered
+ORD-1243,2025-03-31,Electronics,East,4980,3,14940,0,Delivered
+ORD-1244,2025-04-22,Footwear,East,315,1,315,1,Returned
+ORD-1245,2025-03-01,Clothing,West,2203,1,2203,1,Returned
+ORD-1246,2025-04-23,Electronics,East,892,3,2676,0,Delivered
+ORD-1247,2025-01-02,Beauty,East,3362,2,6724,0,Delivered
+ORD-1248,2025-05-09,Footwear,West,1305,1,1305,1,Returned
+ORD-1249,2025-02-17,Beauty,South,3208,3,9624,0,Delivered
+ORD-1250,2025-05-20,Beauty,North,2361,1,2361,1,Returned
+ORD-1251,2025-02-06,Electronics,East,353,1,353,0,Delivered
+ORD-1252,2025-06-09,Clothing,South,3899,1,3899,0,Delivered
+ORD-1253,2025-01-09,Footwear,East,4610,3,13830,1,Returned
+ORD-1254,2025-04-09,Home & Kitchen,East,3986,2,7972,0,Delivered
+ORD-1255,2025-05-27,Electronics,North,1264,2,2528,0,Delivered
+ORD-1256,2025-02-17,Footwear,East,4400,2,8800,0,Delivered
+ORD-1257,2025-05-11,Electronics,North,2113,1,2113,0,Delivered
+ORD-1258,2025-05-28,Electronics,North,1416,3,4248,0,Delivered
+ORD-1259,2025-06-01,Clothing,North,2601,1,2601,0,Delivered
+ORD-1260,2025-02-23,Home & Kitchen,South,1972,2,3944,0,Delivered
+ORD-1261,2025-04-30,Home & Kitchen,West,2160,2,4320,0,Delivered
+ORD-1262,2025-06-10,Electronics,South,2980,3,8940,0,Delivered
+ORD-1263,2025-06-01,Footwear,West,4946,1,4946,0,Delivered
+ORD-1264,2025-04-26,Clothing,West,3071,2,6142,0,Delivered
+ORD-1265,2025-03-16,Electronics,North,860,3,2580,0,Delivered
+ORD-1266,2025-04-23,Footwear,East,2835,1,2835,1,Returned
+ORD-1267,2025-06-13,Beauty,North,2529,1,2529,1,Returned
+ORD-1268,2025-06-15,Footwear,East,4154,2,8308,0,Delivered
+ORD-1269,2025-04-14,Footwear,West,2650,2,5300,0,Delivered
+ORD-1270,2025-03-25,Home & Kitchen,North,1332,1,1332,0,Delivered
+ORD-1271,2025-04-22,Home & Kitchen,East,899,1,899,0,Delivered
+ORD-1272,2025-04-09,Electronics,South,2238,2,4476,0,Delivered
+ORD-1273,2025-06-02,Clothing,East,4847,1,4847,1,Returned
+ORD-1274,2025-04-03,Clothing,North,4700,2,9400,1,Returned
+ORD-1275,2025-05-26,Clothing,South,4757,1,4757,0,Delivered
+ORD-1276,2025-05-08,Home & Kitchen,East,2379,2,4758,0,Delivered
+ORD-1277,2025-04-20,Clothing,East,3038,3,9114,0,Delivered
+ORD-1278,2025-03-23,Electronics,East,1073,2,2146,0,Delivered
+ORD-1279,2025-02-23,Electronics,East,283,2,566,1,Returned
+ORD-1280,2025-06-12,Home & Kitchen,East,1622,3,4866,0,Delivered
+ORD-1281,2025-06-18,Electronics,South,2875,1,2875,0,Delivered
+ORD-1282,2025-06-10,Footwear,West,3380,3,10140,0,Delivered
+ORD-1283,2025-03-09,Clothing,South,4516,2,9032,0,Delivered
+ORD-1284,2025-02-02,Clothing,South,4175,1,4175,0,Delivered
+ORD-1285,2025-05-22,Home & Kitchen,South,1591,3,4773,0,Delivered
+ORD-1286,2025-01-21,Footwear,West,3418,1,3418,0,Delivered
+ORD-1287,2025-02-17,Clothing,North,4407,1,4407,0,Delivered
+ORD-1288,2025-05-28,Home & Kitchen,West,814,3,2442,0,Delivered
+ORD-1289,2025-05-08,Home & Kitchen,South,3171,1,3171,0,Delivered
+ORD-1290,2025-05-16,Clothing,East,3765,3,11295,1,Returned
+ORD-1291,2025-05-15,Footwear,East,3776,2,7552,1,Returned
+ORD-1292,2025-05-25,Footwear,South,4770,1,4770,1,Returned
+ORD-1293,2025-05-08,Home & Kitchen,East,470,2,940,0,Delivered
+ORD-1294,2025-02-02,Footwear,South,4266,2,8532,0,Delivered
+ORD-1295,2025-06-25,Footwear,East,2668,1,2668,1,Returned
+ORD-1296,2025-04-25,Home & Kitchen,West,1590,3,4770,0,Delivered
+ORD-1297,2025-04-29,Footwear,North,3554,1,3554,0,Delivered
+ORD-1298,2025-01-22,Home & Kitchen,North,4335,2,8670,0,Delivered
+ORD-1299,2025-06-07,Home & Kitchen,West,3807,2,7614,0,Delivered
+ORD-1300,2025-02-07,Home & Kitchen,West,2783,3,8349,0,Delivered
+ORD-1301,2025-04-19,Footwear,South,4273,1,4273,1,Returned
+ORD-1302,2025-02-20,Electronics,South,3275,2,6550,0,Delivered
+ORD-1303,2025-01-08,Footwear,South,4106,2,8212,1,Returned
+ORD-1304,2025-01-27,Footwear,East,489,2,978,0,Delivered
+ORD-1305,2025-01-27,Electronics,South,2680,3,8040,0,Delivered
+ORD-1306,2025-01-21,Footwear,West,3452,2,6904,0,Delivered
+ORD-1307,2025-01-30,Electronics,North,478,2,956,0,Delivered
+ORD-1308,2025-04-07,Clothing,East,3124,1,3124,0,Delivered
+ORD-1309,2025-01-28,Home & Kitchen,South,780,1,780,0,Delivered
+ORD-1310,2025-04-21,Electronics,East,453,2,906,0,Delivered
+ORD-1311,2025-03-02,Footwear,East,4476,2,8952,1,Returned
+ORD-1312,2025-02-17,Footwear,South,4976,1,4976,0,Delivered
+ORD-1313,2025-05-27,Clothing,East,1024,3,3072,1,Returned
+ORD-1314,2025-01-04,Electronics,North,4032,3,12096,0,Delivered
+ORD-1315,2025-02-04,Clothing,West,899,3,2697,1,Returned
+ORD-1316,2025-02-18,Home & Kitchen,West,1580,3,4740,0,Delivered
+ORD-1317,2025-01-17,Beauty,North,4096,3,12288,0,Delivered
+ORD-1318,2025-06-21,Home & Kitchen,East,1873,3,5619,0,Delivered
+ORD-1319,2025-06-07,Clothing,South,2927,3,8781,0,Delivered
+ORD-1320,2025-02-15,Home & Kitchen,East,3356,3,10068,0,Delivered
+ORD-1321,2025-04-27,Clothing,North,3588,1,3588,0,Delivered
+ORD-1322,2025-01-06,Footwear,East,4507,3,13521,1,Returned
+ORD-1323,2025-04-09,Electronics,West,583,3,1749,0,Delivered
+ORD-1324,2025-05-04,Footwear,East,541,3,1623,0,Delivered
+ORD-1325,2025-02-06,Clothing,North,2187,2,4374,1,Returned
+ORD-1326,2025-01-24,Beauty,West,4259,1,4259,0,Delivered
+ORD-1327,2025-04-03,Clothing,East,3309,1,3309,1,Returned
+ORD-1328,2025-02-15,Home & Kitchen,East,4282,1,4282,1,Returned
+ORD-1329,2025-04-05,Beauty,West,4715,3,14145,0,Delivered
+ORD-1330,2025-04-09,Electronics,South,2998,3,8994,1,Returned
+ORD-1331,2025-04-26,Beauty,West,3440,2,6880,0,Delivered
+ORD-1332,2025-06-09,Home & Kitchen,South,2188,1,2188,0,Delivered
+ORD-1333,2025-06-10,Electronics,North,3614,3,10842,0,Delivered
+ORD-1334,2025-03-08,Clothing,North,2049,1,2049,0,Delivered
+ORD-1335,2025-05-08,Home & Kitchen,West,505,2,1010,0,Delivered
+ORD-1336,2025-01-18,Electronics,West,3813,2,7626,0,Delivered
+ORD-1337,2025-01-25,Home & Kitchen,North,2949,2,5898,1,Returned
+ORD-1338,2025-02-23,Clothing,South,1335,1,1335,1,Returned
+ORD-1339,2025-02-27,Home & Kitchen,North,405,3,1215,0,Delivered
+ORD-1340,2025-03-08,Electronics,West,4791,3,14373,0,Delivered
+ORD-1341,2025-04-14,Footwear,North,3650,2,7300,0,Delivered
+ORD-1342,2025-06-23,Beauty,West,4011,3,12033,0,Delivered
+ORD-1343,2025-01-24,Beauty,West,3822,2,7644,0,Delivered
+ORD-1344,2025-04-24,Home & Kitchen,North,3799,1,3799,0,Delivered
+ORD-1345,2025-02-01,Electronics,South,2751,2,5502,0,Delivered
+ORD-1346,2025-06-24,Footwear,East,4508,1,4508,0,Delivered
+ORD-1347,2025-03-27,Electronics,North,509,2,1018,0,Delivered
+ORD-1348,2025-05-31,Electronics,East,2908,3,8724,0,Delivered
+ORD-1349,2025-05-07,Clothing,North,2191,3,6573,1,Returned
+ORD-1350,2025-06-04,Clothing,East,471,2,942,0,Delivered
+ORD-1351,2025-05-10,Footwear,South,3842,3,11526,0,Delivered
+ORD-1352,2025-01-17,Home & Kitchen,South,4286,3,12858,0,Delivered
+ORD-1353,2025-04-14,Clothing,North,2022,3,6066,0,Delivered
+ORD-1354,2025-06-10,Clothing,West,3473,1,3473,1,Returned
+ORD-1355,2025-05-17,Beauty,East,4738,3,14214,0,Delivered
+ORD-1356,2025-02-12,Clothing,West,4549,1,4549,1,Returned
+ORD-1357,2025-06-25,Clothing,West,720,2,1440,0,Delivered
+ORD-1358,2025-02-08,Electronics,West,1176,3,3528,1,Returned
+ORD-1359,2025-06-19,Footwear,South,3922,3,11766,0,Delivered
+ORD-1360,2025-01-26,Home & Kitchen,North,3751,3,11253,0,Delivered
+ORD-1361,2025-04-09,Electronics,North,4305,2,8610,0,Delivered
+ORD-1362,2025-02-19,Electronics,South,2973,1,2973,0,Delivered
+ORD-1363,2025-06-02,Home & Kitchen,South,2752,1,2752,0,Delivered
+ORD-1364,2025-06-01,Home & Kitchen,North,3032,3,9096,0,Delivered
+ORD-1365,2025-01-13,Clothing,West,4107,2,8214,0,Delivered
+ORD-1366,2025-03-01,Beauty,East,352,2,704,0,Delivered
+ORD-1367,2025-05-15,Electronics,East,3164,2,6328,0,Delivered
+ORD-1368,2025-02-26,Clothing,East,3116,2,6232,1,Returned
+ORD-1369,2025-02-05,Beauty,West,3000,2,6000,0,Delivered
+ORD-1370,2025-06-22,Clothing,North,1952,1,1952,0,Delivered
+ORD-1371,2025-01-20,Home & Kitchen,South,2810,1,2810,1,Returned
+ORD-1372,2025-03-06,Clothing,North,4075,1,4075,0,Delivered
+ORD-1373,2025-01-08,Clothing,West,1304,3,3912,0,Delivered
+ORD-1374,2025-05-24,Beauty,South,2736,2,5472,0,Delivered
+ORD-1375,2025-05-22,Clothing,West,4399,3,13197,0,Delivered
+ORD-1376,2025-04-25,Footwear,East,4054,2,8108,0,Delivered
+ORD-1377,2025-05-23,Electronics,East,3694,1,3694,0,Delivered
+ORD-1378,2025-04-02,Electronics,West,2114,3,6342,0,Delivered
+ORD-1379,2025-04-08,Electronics,South,3272,1,3272,0,Delivered
+ORD-1380,2025-03-07,Home & Kitchen,South,1206,2,2412,0,Delivered
+ORD-1381,2025-02-01,Clothing,North,606,2,1212,0,Delivered
+ORD-1382,2025-03-27,Footwear,East,366,2,732,1,Returned
+ORD-1383,2025-02-20,Clothing,North,708,1,708,0,Delivered
+ORD-1384,2025-06-02,Beauty,North,1861,2,3722,0,Delivered
+ORD-1385,2025-03-04,Electronics,West,3864,1,3864,0,Delivered
+ORD-1386,2025-05-05,Footwear,West,3689,3,11067,0,Delivered
+ORD-1387,2025-05-30,Footwear,North,880,2,1760,0,Delivered
+ORD-1388,2025-02-27,Footwear,East,2724,2,5448,1,Returned
+ORD-1389,2025-02-27,Footwear,West,2320,2,4640,0,Delivered
+ORD-1390,2025-03-27,Footwear,North,4877,3,14631,0,Delivered
+ORD-1391,2025-02-18,Home & Kitchen,North,4557,2,9114,0,Delivered
+ORD-1392,2025-06-29,Electronics,North,1563,1,1563,0,Delivered
+ORD-1393,2025-06-19,Electronics,North,1531,1,1531,0,Delivered
+ORD-1394,2025-03-11,Beauty,North,2492,2,4984,0,Delivered
+ORD-1395,2025-01-15,Home & Kitchen,North,1738,2,3476,0,Delivered
+ORD-1396,2025-02-23,Footwear,West,3608,3,10824,0,Delivered
+ORD-1397,2025-04-11,Clothing,East,760,3,2280,0,Delivered
+ORD-1398,2025-01-08,Electronics,North,1299,3,3897,0,Delivered
+ORD-1399,2025-02-22,Electronics,South,2103,2,4206,0,Delivered
+ORD-1400,2025-03-01,Home & Kitchen,West,374,3,1122,0,Delivered
+ORD-1401,2025-04-18,Clothing,West,2356,3,7068,0,Delivered
+ORD-1402,2025-01-05,Electronics,North,2430,1,2430,0,Delivered
+ORD-1403,2025-04-13,Clothing,West,4487,3,13461,0,Delivered
+ORD-1404,2025-01-06,Electronics,North,4360,1,4360,0,Delivered
+ORD-1405,2025-04-19,Home & Kitchen,East,4120,1,4120,0,Delivered
+ORD-1406,2025-04-26,Clothing,East,1697,3,5091,0,Delivered
+ORD-1407,2025-04-04,Footwear,West,4054,1,4054,0,Delivered
+ORD-1408,2025-02-16,Clothing,West,3371,2,6742,0,Delivered
+ORD-1409,2025-04-09,Clothing,South,1767,2,3534,0,Delivered
+ORD-1410,2025-02-24,Electronics,West,1351,3,4053,0,Delivered
+ORD-1411,2025-06-17,Electronics,South,568,2,1136,0,Delivered
+ORD-1412,2025-02-21,Clothing,East,242,1,242,0,Delivered
+ORD-1413,2025-05-24,Clothing,East,2107,2,4214,0,Delivered
+ORD-1414,2025-01-13,Home & Kitchen,North,3690,3,11070,0,Delivered
+ORD-1415,2025-04-24,Clothing,East,2735,3,8205,0,Delivered
+ORD-1416,2025-05-04,Home & Kitchen,South,4373,1,4373,0,Delivered
+ORD-1417,2025-04-16,Footwear,West,3073,3,9219,0,Delivered
+ORD-1418,2025-06-07,Footwear,North,2024,2,4048,0,Delivered
+ORD-1419,2025-05-27,Electronics,South,1493,3,4479,0,Delivered
+ORD-1420,2025-05-25,Clothing,West,4969,1,4969,0,Delivered
+ORD-1421,2025-04-30,Electronics,North,4996,3,14988,0,Delivered
+ORD-1422,2025-03-04,Electronics,East,3586,2,7172,0,Delivered
+ORD-1423,2025-01-19,Beauty,South,3172,1,3172,0,Delivered
+ORD-1424,2025-04-02,Electronics,West,4122,2,8244,0,Delivered
+ORD-1425,2025-02-27,Clothing,North,1192,1,1192,1,Returned
+ORD-1426,2025-03-31,Home & Kitchen,North,2586,3,7758,0,Delivered
+ORD-1427,2025-04-27,Home & Kitchen,East,2440,1,2440,0,Delivered
+ORD-1428,2025-03-03,Home & Kitchen,West,1676,1,1676,0,Delivered
+ORD-1429,2025-01-23,Electronics,East,3607,3,10821,0,Delivered
+ORD-1430,2025-05-07,Clothing,East,589,2,1178,0,Delivered
+ORD-1431,2025-05-17,Clothing,West,1199,3,3597,0,Delivered
+ORD-1432,2025-05-20,Electronics,West,4820,1,4820,0,Delivered
+ORD-1433,2025-05-09,Clothing,West,2055,3,6165,0,Delivered
+ORD-1434,2025-02-27,Electronics,South,858,1,858,0,Delivered
+ORD-1435,2025-05-02,Electronics,West,2963,3,8889,0,Delivered
+ORD-1436,2025-01-01,Clothing,North,3863,3,11589,0,Delivered
+ORD-1437,2025-02-03,Electronics,East,1681,2,3362,0,Delivered
+ORD-1438,2025-04-06,Home & Kitchen,South,3931,1,3931,0,Delivered
+ORD-1439,2025-05-06,Home & Kitchen,West,651,2,1302,0,Delivered
+ORD-1440,2025-04-28,Footwear,South,2675,1,2675,0,Delivered
+ORD-1441,2025-02-17,Electronics,West,3422,3,10266,0,Delivered
+ORD-1442,2025-03-30,Electronics,South,1737,1,1737,0,Delivered
+ORD-1443,2025-04-27,Electronics,East,3293,2,6586,1,Returned
+ORD-1444,2025-05-09,Home & Kitchen,East,1082,2,2164,0,Delivered
+ORD-1445,2025-01-16,Home & Kitchen,North,4608,2,9216,0,Delivered
+ORD-1446,2025-03-10,Electronics,North,4268,1,4268,0,Delivered
+ORD-1447,2025-01-22,Beauty,West,2766,2,5532,0,Delivered
+ORD-1448,2025-04-03,Electronics,East,3477,2,6954,1,Returned
+ORD-1449,2025-03-17,Clothing,South,574,2,1148,1,Returned
+ORD-1450,2025-06-03,Home & Kitchen,South,4746,3,14238,0,Delivered
+ORD-1451,2025-05-24,Footwear,South,3897,3,11691,1,Returned
+ORD-1452,2025-06-28,Home & Kitchen,North,3262,1,3262,0,Delivered
+ORD-1453,2025-03-27,Footwear,South,4890,1,4890,1,Returned
+ORD-1454,2025-01-29,Clothing,North,3450,2,6900,0,Delivered
+ORD-1455,2025-03-10,Footwear,North,4795,3,14385,0,Delivered
+ORD-1456,2025-02-16,Electronics,West,4759,2,9518,0,Delivered
+ORD-1457,2025-04-04,Footwear,South,312,2,624,0,Delivered
+ORD-1458,2025-05-24,Clothing,South,3397,3,10191,1,Returned
+ORD-1459,2025-06-25,Footwear,East,2578,3,7734,1,Returned
+ORD-1460,2025-03-26,Clothing,West,2124,3,6372,0,Delivered
+ORD-1461,2025-02-08,Home & Kitchen,East,339,1,339,0,Delivered
+ORD-1462,2025-04-10,Clothing,West,1624,1,1624,0,Delivered
+ORD-1463,2025-02-02,Home & Kitchen,South,3149,2,6298,0,Delivered
+ORD-1464,2025-04-11,Electronics,North,3368,1,3368,0,Delivered
+ORD-1465,2025-01-23,Electronics,North,716,3,2148,0,Delivered
+ORD-1466,2025-01-10,Electronics,North,2816,3,8448,1,Returned
+ORD-1467,2025-03-10,Electronics,North,1087,1,1087,0,Delivered
+ORD-1468,2025-04-10,Footwear,North,3304,2,6608,0,Delivered
+ORD-1469,2025-02-03,Electronics,East,249,2,498,0,Delivered
+ORD-1470,2025-06-29,Beauty,West,4151,1,4151,0,Delivered
+ORD-1471,2025-05-18,Clothing,South,3760,2,7520,1,Returned
+ORD-1472,2025-05-27,Electronics,East,218,2,436,0,Delivered
+ORD-1473,2025-04-06,Footwear,West,1673,2,3346,1,Returned
+ORD-1474,2025-01-01,Home & Kitchen,North,4261,3,12783,1,Returned
+ORD-1475,2025-03-10,Clothing,West,2806,3,8418,0,Delivered
+ORD-1476,2025-01-04,Home & Kitchen,West,651,1,651,0,Delivered
+ORD-1477,2025-01-16,Home & Kitchen,North,3965,3,11895,0,Delivered
+ORD-1478,2025-01-24,Electronics,North,2638,2,5276,1,Returned
+ORD-1479,2025-03-21,Beauty,North,4510,3,13530,0,Delivered
+ORD-1480,2025-01-02,Beauty,South,1749,1,1749,0,Delivered
+ORD-1481,2025-05-08,Home & Kitchen,North,3674,3,11022,0,Delivered
+ORD-1482,2025-06-09,Electronics,South,327,2,654,0,Delivered
+ORD-1483,2025-03-25,Home & Kitchen,North,2961,2,5922,0,Delivered
+ORD-1484,2025-06-01,Electronics,South,4656,1,4656,0,Delivered
+ORD-1485,2025-05-20,Electronics,West,4864,3,14592,0,Delivered
+ORD-1486,2025-06-27,Clothing,East,1615,3,4845,1,Returned
+ORD-1487,2025-06-12,Clothing,West,401,3,1203,0,Delivered
+ORD-1488,2025-05-04,Footwear,West,2569,2,5138,0,Delivered
+ORD-1489,2025-02-02,Home & Kitchen,North,717,1,717,0,Delivered
+ORD-1490,2025-06-10,Home & Kitchen,South,1541,3,4623,0,Delivered
+ORD-1491,2025-06-28,Clothing,East,4976,2,9952,0,Delivered
+ORD-1492,2025-06-20,Clothing,North,2188,2,4376,1,Returned
+ORD-1493,2025-04-11,Clothing,North,3745,2,7490,0,Delivered
+ORD-1494,2025-01-12,Beauty,North,4720,3,14160,0,Delivered
+ORD-1495,2025-03-08,Electronics,West,4002,3,12006,0,Delivered
+ORD-1496,2025-03-06,Footwear,South,3475,3,10425,0,Delivered
+ORD-1497,2025-06-10,Home & Kitchen,South,3854,3,11562,0,Delivered
+ORD-1498,2025-06-17,Clothing,East,2634,3,7902,0,Delivered
+ORD-1499,2025-03-15,Home & Kitchen,South,407,3,1221,0,Delivered
+ORD-1500,2025-02-12,Clothing,South,2833,3,8499,0,Delivered
+ORD-1501,2025-02-13,Footwear,North,4317,3,12951,0,Delivered
+ORD-1502,2025-01-29,Beauty,North,353,3,1059,0,Delivered
+ORD-1503,2025-05-21,Clothing,West,3566,2,7132,1,Returned
+ORD-1504,2025-01-12,Clothing,North,4514,3,13542,0,Delivered
+ORD-1505,2025-04-05,Home & Kitchen,North,4964,1,4964,0,Delivered
+ORD-1506,2025-02-15,Beauty,North,1718,2,3436,1,Returned
+ORD-1507,2025-05-10,Electronics,North,2800,3,8400,1,Returned
+ORD-1508,2025-02-04,Home & Kitchen,West,2395,1,2395,0,Delivered
+ORD-1509,2025-03-22,Home & Kitchen,North,4698,3,14094,0,Delivered
+ORD-1510,2025-03-31,Home & Kitchen,East,4891,1,4891,0,Delivered
+ORD-1511,2025-01-08,Electronics,East,3754,1,3754,0,Delivered
+ORD-1512,2025-04-03,Home & Kitchen,East,2614,1,2614,0,Delivered
+ORD-1513,2025-06-03,Beauty,East,3049,1,3049,0,Delivered
+ORD-1514,2025-03-31,Electronics,North,1942,2,3884,0,Delivered
+ORD-1515,2025-06-11,Electronics,East,1506,2,3012,1,Returned
+ORD-1516,2025-04-25,Beauty,North,4049,1,4049,0,Delivered
+ORD-1517,2025-04-15,Electronics,West,4368,3,13104,0,Delivered
+ORD-1518,2025-05-15,Footwear,East,4776,1,4776,1,Returned
+ORD-1519,2025-02-27,Clothing,South,4855,2,9710,0,Delivered
+ORD-1520,2025-04-24,Electronics,East,4395,3,13185,1,Returned
+ORD-1521,2025-03-16,Footwear,East,2755,2,5510,0,Delivered
+ORD-1522,2025-06-06,Clothing,North,2505,2,5010,0,Delivered
+ORD-1523,2025-04-30,Clothing,East,4708,3,14124,0,Delivered
+ORD-1524,2025-06-13,Clothing,South,1288,1,1288,0,Delivered
+ORD-1525,2025-01-21,Home & Kitchen,North,2842,1,2842,0,Delivered
+ORD-1526,2025-06-13,Electronics,North,1377,1,1377,0,Delivered
+ORD-1527,2025-05-18,Clothing,West,4957,1,4957,0,Delivered
+ORD-1528,2025-04-11,Beauty,West,3194,3,9582,0,Delivered
+ORD-1529,2025-06-01,Clothing,East,759,3,2277,0,Delivered
+ORD-1530,2025-06-26,Home & Kitchen,West,3164,3,9492,0,Delivered
+ORD-1531,2025-04-09,Clothing,West,1471,2,2942,0,Delivered
+ORD-1532,2025-02-05,Footwear,West,2013,3,6039,0,Delivered
+ORD-1533,2025-04-06,Electronics,North,3115,1,3115,1,Returned
+ORD-1534,2025-06-01,Beauty,North,809,2,1618,1,Returned
+ORD-1535,2025-05-31,Clothing,North,2661,1,2661,0,Delivered
+ORD-1536,2025-02-06,Electronics,West,4320,1,4320,0,Delivered
+ORD-1537,2025-01-12,Electronics,North,483,3,1449,0,Delivered
+ORD-1538,2025-04-23,Electronics,West,3128,3,9384,0,Delivered
+ORD-1539,2025-01-13,Clothing,North,4596,1,4596,0,Delivered
+ORD-1540,2025-01-23,Clothing,North,1291,1,1291,0,Delivered
+ORD-1541,2025-04-09,Footwear,South,1016,2,2032,0,Delivered
+ORD-1542,2025-04-15,Clothing,East,282,3,846,0,Delivered
+ORD-1543,2025-01-30,Electronics,West,2120,2,4240,0,Delivered
+ORD-1544,2025-01-17,Home & Kitchen,South,3691,2,7382,0,Delivered
+ORD-1545,2025-04-23,Home & Kitchen,North,3344,2,6688,0,Delivered
+ORD-1546,2025-03-03,Electronics,West,2293,1,2293,0,Delivered
+ORD-1547,2025-03-25,Electronics,North,4913,2,9826,0,Delivered
+ORD-1548,2025-04-22,Electronics,East,375,2,750,0,Delivered
+ORD-1549,2025-03-27,Home & Kitchen,South,2904,1,2904,0,Delivered
+ORD-1550,2025-05-21,Home & Kitchen,East,569,3,1707,0,Delivered
+ORD-1551,2025-01-19,Clothing,South,2018,3,6054,1,Returned
+ORD-1552,2025-06-26,Footwear,North,2301,2,4602,0,Delivered
+ORD-1553,2025-04-10,Footwear,East,4985,1,4985,0,Delivered
+ORD-1554,2025-05-20,Home & Kitchen,East,3690,3,11070,0,Delivered
+ORD-1555,2025-05-27,Footwear,North,1979,2,3958,1,Returned
+ORD-1556,2025-03-17,Electronics,East,1564,2,3128,0,Delivered
+ORD-1557,2025-01-09,Electronics,West,4662,1,4662,0,Delivered
+ORD-1558,2025-01-28,Clothing,South,3542,2,7084,1,Returned
+ORD-1559,2025-05-08,Electronics,South,4939,3,14817,0,Delivered
+ORD-1560,2025-02-21,Clothing,South,3876,1,3876,1,Returned
+ORD-1561,2025-03-24,Beauty,West,2626,3,7878,0,Delivered
+ORD-1562,2025-04-21,Electronics,South,272,3,816,0,Delivered
+ORD-1563,2025-05-24,Electronics,North,3162,3,9486,0,Delivered
+ORD-1564,2025-04-27,Clothing,East,1059,2,2118,0,Delivered
+ORD-1565,2025-03-10,Beauty,West,4056,2,8112,0,Delivered
+ORD-1566,2025-04-09,Clothing,South,4338,3,13014,0,Delivered
+ORD-1567,2025-05-20,Clothing,North,2624,3,7872,1,Returned
+ORD-1568,2025-01-25,Electronics,East,1264,1,1264,0,Delivered
+ORD-1569,2025-06-29,Electronics,East,2417,1,2417,0,Delivered
+ORD-1570,2025-05-03,Beauty,West,4217,2,8434,0,Delivered
+ORD-1571,2025-02-22,Beauty,West,2459,2,4918,0,Delivered
+ORD-1572,2025-05-31,Electronics,West,3951,1,3951,0,Delivered
+ORD-1573,2025-05-24,Beauty,North,2286,3,6858,0,Delivered
+ORD-1574,2025-02-26,Home & Kitchen,North,568,2,1136,0,Delivered
+ORD-1575,2025-02-08,Footwear,West,3004,3,9012,0,Delivered
+ORD-1576,2025-04-19,Clothing,South,350,1,350,1,Returned
+ORD-1577,2025-02-11,Clothing,East,1334,2,2668,1,Returned
+ORD-1578,2025-06-16,Clothing,East,2984,2,5968,0,Delivered
+ORD-1579,2025-05-22,Home & Kitchen,North,4364,1,4364,0,Delivered
+ORD-1580,2025-05-02,Electronics,East,2546,2,5092,1,Returned
+ORD-1581,2025-05-13,Electronics,South,2450,1,2450,0,Delivered
+ORD-1582,2025-06-12,Clothing,East,260,2,520,0,Delivered
+ORD-1583,2025-03-16,Home & Kitchen,North,3210,1,3210,0,Delivered
+ORD-1584,2025-05-26,Electronics,North,4101,2,8202,0,Delivered
+ORD-1585,2025-03-17,Home & Kitchen,South,1537,3,4611,0,Delivered
+ORD-1586,2025-01-09,Beauty,South,1384,3,4152,0,Delivered
+ORD-1587,2025-03-15,Electronics,East,4626,3,13878,1,Returned
+ORD-1588,2025-05-25,Home & Kitchen,East,1751,2,3502,0,Delivered
+ORD-1589,2025-01-07,Clothing,North,4633,2,9266,0,Delivered
+ORD-1590,2025-06-23,Footwear,South,1829,3,5487,0,Delivered
+ORD-1591,2025-05-21,Electronics,South,1527,3,4581,0,Delivered
+ORD-1592,2025-06-17,Home & Kitchen,South,1726,1,1726,0,Delivered
+ORD-1593,2025-06-19,Footwear,East,1873,1,1873,1,Returned
+ORD-1594,2025-05-17,Beauty,South,1561,1,1561,0,Delivered
+ORD-1595,2025-06-27,Home & Kitchen,North,1773,3,5319,0,Delivered
+ORD-1596,2025-01-27,Clothing,North,2886,3,8658,1,Returned
+ORD-1597,2025-05-02,Home & Kitchen,East,4570,3,13710,0,Delivered
+ORD-1598,2025-01-05,Footwear,West,2566,1,2566,0,Delivered
+ORD-1599,2025-01-29,Home & Kitchen,East,3957,2,7914,1,Returned
+ORD-1600,2025-06-14,Electronics,West,2634,3,7902,0,Delivered
+ORD-1601,2025-06-15,Beauty,South,2193,2,4386,0,Delivered
+ORD-1602,2025-03-24,Home & Kitchen,East,1069,2,2138,0,Delivered
+ORD-1603,2025-05-16,Home & Kitchen,North,1214,2,2428,0,Delivered
+ORD-1604,2025-04-19,Electronics,South,2111,1,2111,0,Delivered
+ORD-1605,2025-03-06,Home & Kitchen,North,802,2,1604,0,Delivered
+ORD-1606,2025-03-27,Clothing,South,4021,3,12063,1,Returned
+ORD-1607,2025-05-25,Home & Kitchen,East,890,1,890,0,Delivered
+ORD-1608,2025-03-12,Electronics,West,693,3,2079,0,Delivered
+ORD-1609,2025-02-14,Home & Kitchen,South,689,3,2067,0,Delivered
+ORD-1610,2025-05-12,Beauty,West,2756,1,2756,0,Delivered
+ORD-1611,2025-02-05,Electronics,South,4685,3,14055,0,Delivered
+ORD-1612,2025-03-11,Beauty,North,494,3,1482,0,Delivered
+ORD-1613,2025-06-08,Clothing,North,4227,1,4227,1,Returned
+ORD-1614,2025-01-19,Footwear,South,3043,3,9129,1,Returned
+ORD-1615,2025-04-18,Footwear,West,3112,2,6224,0,Delivered
+ORD-1616,2025-06-16,Home & Kitchen,East,1917,3,5751,0,Delivered
+ORD-1617,2025-04-01,Home & Kitchen,East,2796,2,5592,0,Delivered
+ORD-1618,2025-03-31,Footwear,North,4944,3,14832,0,Delivered
+ORD-1619,2025-01-19,Clothing,East,2073,1,2073,0,Delivered
+ORD-1620,2025-02-08,Clothing,North,4863,1,4863,0,Delivered
+ORD-1621,2025-05-06,Home & Kitchen,East,3458,3,10374,0,Delivered
+ORD-1622,2025-06-22,Footwear,South,3017,1,3017,0,Delivered
+ORD-1623,2025-05-21,Footwear,North,644,3,1932,1,Returned
+ORD-1624,2025-05-06,Footwear,North,3841,1,3841,1,Returned
+ORD-1625,2025-02-27,Clothing,South,4658,2,9316,0,Delivered
+ORD-1626,2025-05-28,Footwear,North,941,3,2823,1,Returned
+ORD-1627,2025-03-02,Electronics,East,2241,2,4482,0,Delivered
+ORD-1628,2025-05-07,Clothing,East,879,2,1758,0,Delivered
+ORD-1629,2025-04-15,Electronics,North,2667,3,8001,0,Delivered
+ORD-1630,2025-06-16,Clothing,East,3897,2,7794,1,Returned
+ORD-1631,2025-01-01,Clothing,West,1558,3,4674,1,Returned
+ORD-1632,2025-05-11,Clothing,North,262,2,524,0,Delivered
+ORD-1633,2025-04-02,Home & Kitchen,South,2759,3,8277,0,Delivered
+ORD-1634,2025-04-23,Clothing,West,3969,3,11907,0,Delivered
+ORD-1635,2025-06-02,Clothing,North,4551,1,4551,0,Delivered
+ORD-1636,2025-02-25,Electronics,South,334,3,1002,0,Delivered
+ORD-1637,2025-06-10,Clothing,East,3844,3,11532,0,Delivered
+ORD-1638,2025-06-15,Electronics,South,2335,2,4670,1,Returned
+ORD-1639,2025-04-27,Electronics,West,3478,3,10434,0,Delivered
+ORD-1640,2025-05-14,Home & Kitchen,East,1022,1,1022,0,Delivered
+ORD-1641,2025-02-27,Home & Kitchen,North,3274,2,6548,0,Delivered
+ORD-1642,2025-02-13,Home & Kitchen,East,3181,2,6362,0,Delivered
+ORD-1643,2025-06-22,Clothing,North,320,1,320,0,Delivered
+ORD-1644,2025-06-09,Clothing,North,1837,2,3674,0,Delivered
+ORD-1645,2025-06-22,Footwear,South,1124,2,2248,0,Delivered
+ORD-1646,2025-03-02,Clothing,South,844,2,1688,0,Delivered
+ORD-1647,2025-02-16,Clothing,South,2232,2,4464,0,Delivered
+ORD-1648,2025-05-29,Electronics,West,2961,1,2961,0,Delivered
+ORD-1649,2025-03-21,Clothing,West,2268,1,2268,0,Delivered
+ORD-1650,2025-04-28,Clothing,South,441,2,882,0,Delivered
+ORD-1651,2025-06-13,Clothing,West,2868,2,5736,1,Returned
+ORD-1652,2025-05-27,Home & Kitchen,East,1002,1,1002,0,Delivered
+ORD-1653,2025-01-20,Clothing,East,4364,1,4364,0,Delivered
+ORD-1654,2025-05-26,Home & Kitchen,West,395,1,395,0,Delivered
+ORD-1655,2025-02-16,Footwear,West,2387,2,4774,0,Delivered
+ORD-1656,2025-02-18,Footwear,East,3715,2,7430,0,Delivered
+ORD-1657,2025-01-14,Home & Kitchen,North,2530,3,7590,0,Delivered
+ORD-1658,2025-05-23,Beauty,East,2559,1,2559,0,Delivered
+ORD-1659,2025-06-08,Electronics,East,3806,2,7612,0,Delivered
+ORD-1660,2025-01-01,Electronics,West,476,1,476,0,Delivered
+ORD-1661,2025-04-27,Electronics,East,260,2,520,0,Delivered
+ORD-1662,2025-02-23,Home & Kitchen,West,3590,1,3590,0,Delivered
+ORD-1663,2025-04-28,Footwear,West,2113,2,4226,0,Delivered
+ORD-1664,2025-01-03,Electronics,South,4127,3,12381,0,Delivered
+ORD-1665,2025-05-24,Beauty,East,2791,3,8373,0,Delivered
+ORD-1666,2025-01-12,Electronics,North,766,1,766,0,Delivered
+ORD-1667,2025-03-15,Beauty,South,4135,2,8270,0,Delivered
+ORD-1668,2025-01-16,Clothing,West,1771,2,3542,0,Delivered
+ORD-1669,2025-04-12,Electronics,West,4917,1,4917,0,Delivered
+ORD-1670,2025-06-01,Clothing,North,1400,2,2800,0,Delivered
+ORD-1671,2025-06-05,Clothing,West,4609,1,4609,1,Returned
+ORD-1672,2025-04-27,Clothing,East,3054,2,6108,1,Returned
+ORD-1673,2025-01-08,Clothing,South,3095,1,3095,1,Returned
+ORD-1674,2025-05-02,Footwear,West,1436,2,2872,1,Returned
+ORD-1675,2025-04-02,Clothing,West,336,1,336,1,Returned
+ORD-1676,2025-06-13,Clothing,North,1229,2,2458,0,Delivered
+ORD-1677,2025-03-31,Home & Kitchen,East,2356,3,7068,0,Delivered
+ORD-1678,2025-05-16,Home & Kitchen,West,2794,2,5588,0,Delivered
+ORD-1679,2025-03-01,Clothing,North,861,1,861,0,Delivered
+ORD-1680,2025-06-27,Clothing,West,2672,3,8016,1,Returned
+ORD-1681,2025-01-28,Electronics,North,2877,2,5754,1,Returned
+ORD-1682,2025-04-11,Electronics,North,2508,3,7524,0,Delivered
+ORD-1683,2025-02-10,Home & Kitchen,East,286,2,572,0,Delivered
+ORD-1684,2025-06-04,Electronics,West,2712,3,8136,0,Delivered
+ORD-1685,2025-05-25,Clothing,East,3142,1,3142,1,Returned
+ORD-1686,2025-06-10,Home & Kitchen,North,2973,2,5946,0,Delivered
+ORD-1687,2025-06-06,Electronics,South,2704,2,5408,0,Delivered
+ORD-1688,2025-05-21,Home & Kitchen,West,3510,1,3510,0,Delivered
+ORD-1689,2025-02-15,Clothing,South,1900,3,5700,0,Delivered
+ORD-1690,2025-02-04,Beauty,West,3870,1,3870,0,Delivered
+ORD-1691,2025-05-14,Clothing,East,2900,1,2900,0,Delivered
+ORD-1692,2025-03-23,Footwear,East,3829,3,11487,1,Returned
+ORD-1693,2025-04-25,Home & Kitchen,East,4790,1,4790,0,Delivered
+ORD-1694,2025-02-16,Electronics,East,1847,2,3694,0,Delivered
+ORD-1695,2025-06-02,Home & Kitchen,East,3518,2,7036,0,Delivered
+ORD-1696,2025-01-10,Beauty,South,3887,2,7774,1,Returned
+ORD-1697,2025-02-25,Home & Kitchen,East,796,1,796,0,Delivered
+ORD-1698,2025-01-30,Footwear,North,4745,2,9490,0,Delivered
+ORD-1699,2025-04-19,Footwear,North,684,2,1368,1,Returned
+ORD-1700,2025-01-05,Electronics,South,845,2,1690,0,Delivered
+ORD-1701,2025-04-29,Electronics,West,3289,2,6578,0,Delivered
+ORD-1702,2025-02-02,Home & Kitchen,North,4957,2,9914,0,Delivered
+ORD-1703,2025-04-28,Clothing,West,4584,2,9168,1,Returned
+ORD-1704,2025-03-06,Footwear,South,920,1,920,0,Delivered
+ORD-1705,2025-05-26,Beauty,West,4933,2,9866,0,Delivered
+ORD-1706,2025-06-26,Clothing,West,698,2,1396,0,Delivered
+ORD-1707,2025-01-11,Electronics,West,4929,3,14787,0,Delivered
+ORD-1708,2025-03-26,Footwear,West,1873,1,1873,0,Delivered
+ORD-1709,2025-01-26,Clothing,South,3267,1,3267,1,Returned
+ORD-1710,2025-03-04,Footwear,North,314,1,314,0,Delivered
+ORD-1711,2025-03-27,Clothing,East,3179,1,3179,1,Returned
+ORD-1712,2025-02-28,Home & Kitchen,West,4969,2,9938,0,Delivered
+ORD-1713,2025-01-27,Electronics,North,1936,2,3872,0,Delivered
+ORD-1714,2025-06-26,Home & Kitchen,North,3811,3,11433,0,Delivered
+ORD-1715,2025-06-10,Clothing,South,2453,3,7359,0,Delivered
+ORD-1716,2025-04-08,Home & Kitchen,North,2494,1,2494,0,Delivered
+ORD-1717,2025-04-15,Electronics,South,3830,3,11490,0,Delivered
+ORD-1718,2025-04-09,Home & Kitchen,West,346,3,1038,0,Delivered
+ORD-1719,2025-05-09,Footwear,West,4182,1,4182,0,Delivered
+ORD-1720,2025-05-29,Electronics,East,3653,1,3653,0,Delivered
+ORD-1721,2025-02-24,Electronics,East,4707,3,14121,0,Delivered
+ORD-1722,2025-01-06,Electronics,East,2610,2,5220,0,Delivered
+ORD-1723,2025-04-05,Home & Kitchen,North,336,3,1008,0,Delivered
+ORD-1724,2025-05-13,Home & Kitchen,West,3560,3,10680,0,Delivered
+ORD-1725,2025-04-12,Clothing,South,3205,2,6410,0,Delivered
+ORD-1726,2025-01-03,Electronics,East,3752,2,7504,0,Delivered
+ORD-1727,2025-01-23,Clothing,South,218,1,218,1,Returned
+ORD-1728,2025-02-22,Home & Kitchen,South,2442,1,2442,1,Returned
+ORD-1729,2025-06-14,Clothing,East,648,3,1944,0,Delivered
+ORD-1730,2025-03-24,Beauty,West,2148,2,4296,0,Delivered
+ORD-1731,2025-05-25,Electronics,East,1145,1,1145,1,Returned
+ORD-1732,2025-03-26,Home & Kitchen,South,4436,3,13308,0,Delivered
+ORD-1733,2025-03-19,Clothing,East,2120,2,4240,0,Delivered
+ORD-1734,2025-04-20,Clothing,South,3177,3,9531,0,Delivered
+ORD-1735,2025-01-01,Home & Kitchen,South,4388,1,4388,0,Delivered
+ORD-1736,2025-02-20,Home & Kitchen,East,4215,1,4215,0,Delivered
+ORD-1737,2025-06-22,Beauty,North,438,2,876,0,Delivered
+ORD-1738,2025-01-04,Electronics,East,404,3,1212,0,Delivered
+ORD-1739,2025-04-23,Electronics,North,2807,2,5614,0,Delivered
+ORD-1740,2025-02-01,Home & Kitchen,South,4540,1,4540,0,Delivered
+ORD-1741,2025-02-03,Home & Kitchen,South,3588,1,3588,0,Delivered
+ORD-1742,2025-04-02,Clothing,North,3172,3,9516,1,Returned
+ORD-1743,2025-04-05,Electronics,South,4590,3,13770,0,Delivered
+ORD-1744,2025-03-13,Electronics,North,2887,3,8661,0,Delivered
+ORD-1745,2025-02-08,Footwear,North,4366,2,8732,1,Returned
+ORD-1746,2025-06-03,Electronics,South,1548,3,4644,0,Delivered
+ORD-1747,2025-06-11,Clothing,West,4600,3,13800,0,Delivered
+ORD-1748,2025-04-28,Electronics,North,1016,1,1016,0,Delivered
+ORD-1749,2025-01-03,Clothing,East,1020,1,1020,1,Returned
+ORD-1750,2025-05-03,Electronics,East,392,3,1176,0,Delivered
+ORD-1751,2025-02-19,Clothing,South,1976,3,5928,1,Returned
+ORD-1752,2025-01-12,Electronics,West,3845,1,3845,0,Delivered
+ORD-1753,2025-02-23,Footwear,South,4824,3,14472,1,Returned
+ORD-1754,2025-05-13,Electronics,West,450,2,900,0,Delivered
+ORD-1755,2025-02-26,Clothing,North,1988,2,3976,0,Delivered
+ORD-1756,2025-05-25,Footwear,North,3900,2,7800,0,Delivered
+ORD-1757,2025-04-22,Home & Kitchen,North,2663,3,7989,1,Returned
+ORD-1758,2025-02-16,Clothing,North,1367,1,1367,1,Returned
+ORD-1759,2025-05-31,Clothing,East,4093,3,12279,0,Delivered
+ORD-1760,2025-03-26,Clothing,East,1296,3,3888,1,Returned
+ORD-1761,2025-05-22,Home & Kitchen,South,2879,1,2879,0,Delivered
+ORD-1762,2025-03-07,Beauty,West,2047,1,2047,0,Delivered
+ORD-1763,2025-03-16,Home & Kitchen,North,4104,1,4104,0,Delivered
+ORD-1764,2025-06-28,Home & Kitchen,North,704,2,1408,0,Delivered
+ORD-1765,2025-04-13,Home & Kitchen,West,1821,3,5463,0,Delivered
+ORD-1766,2025-06-15,Clothing,West,2672,1,2672,0,Delivered
+ORD-1767,2025-02-07,Electronics,South,2746,3,8238,0,Delivered
+ORD-1768,2025-02-19,Home & Kitchen,West,1587,2,3174,0,Delivered
+ORD-1769,2025-04-08,Beauty,North,3194,2,6388,0,Delivered
+ORD-1770,2025-03-23,Electronics,North,4016,1,4016,0,Delivered
+ORD-1771,2025-01-30,Home & Kitchen,North,917,1,917,0,Delivered
+ORD-1772,2025-03-20,Electronics,North,3684,3,11052,0,Delivered
+ORD-1773,2025-04-01,Clothing,North,4634,1,4634,0,Delivered
+ORD-1774,2025-06-28,Electronics,South,858,3,2574,0,Delivered
+ORD-1775,2025-02-21,Clothing,North,4208,1,4208,1,Returned
+ORD-1776,2025-06-15,Footwear,South,4724,3,14172,0,Delivered
+ORD-1777,2025-03-20,Clothing,North,4434,3,13302,0,Delivered
+ORD-1778,2025-01-30,Home & Kitchen,East,3964,3,11892,0,Delivered
+ORD-1779,2025-04-16,Footwear,East,3189,3,9567,0,Delivered
+ORD-1780,2025-02-20,Beauty,East,4837,2,9674,0,Delivered
+ORD-1781,2025-03-22,Electronics,East,2304,3,6912,0,Delivered
+ORD-1782,2025-05-13,Clothing,South,1455,1,1455,0,Delivered
+ORD-1783,2025-01-29,Electronics,South,2682,2,5364,1,Returned
+ORD-1784,2025-05-12,Beauty,West,583,2,1166,0,Delivered
+ORD-1785,2025-05-18,Beauty,North,2807,3,8421,0,Delivered
+ORD-1786,2025-05-25,Clothing,East,393,2,786,1,Returned
+ORD-1787,2025-03-15,Footwear,South,4007,3,12021,0,Delivered
+ORD-1788,2025-01-17,Clothing,North,3919,1,3919,0,Delivered
+ORD-1789,2025-03-25,Home & Kitchen,North,2781,3,8343,0,Delivered
+ORD-1790,2025-03-10,Electronics,South,2765,2,5530,0,Delivered
+ORD-1791,2025-02-03,Footwear,East,2963,1,2963,1,Returned
+ORD-1792,2025-01-06,Electronics,West,2998,3,8994,0,Delivered
+ORD-1793,2025-02-22,Footwear,North,2539,1,2539,0,Delivered
+ORD-1794,2025-05-06,Footwear,West,3606,1,3606,0,Delivered
+ORD-1795,2025-02-12,Home & Kitchen,East,931,2,1862,0,Delivered
+ORD-1796,2025-04-25,Electronics,East,3072,1,3072,0,Delivered
+ORD-1797,2025-04-21,Clothing,West,3320,2,6640,0,Delivered
+ORD-1798,2025-05-31,Clothing,East,4980,1,4980,0,Delivered
+ORD-1799,2025-03-21,Clothing,North,4377,3,13131,0,Delivered
+ORD-1800,2025-04-05,Electronics,West,2804,1,2804,0,Delivered
+ORD-1801,2025-04-28,Beauty,East,2582,3,7746,0,Delivered
+ORD-1802,2025-05-24,Home & Kitchen,West,731,3,2193,0,Delivered
+ORD-1803,2025-01-08,Clothing,North,4516,1,4516,0,Delivered
+ORD-1804,2025-05-12,Clothing,East,834,3,2502,1,Returned
+ORD-1805,2025-04-14,Clothing,North,1969,1,1969,0,Delivered
+ORD-1806,2025-05-12,Home & Kitchen,East,4004,1,4004,0,Delivered
+ORD-1807,2025-01-25,Clothing,South,2570,3,7710,0,Delivered
+ORD-1808,2025-04-06,Beauty,East,202,3,606,0,Delivered
+ORD-1809,2025-06-04,Clothing,West,405,2,810,0,Delivered
+ORD-1810,2025-04-03,Beauty,East,4335,3,13005,0,Delivered
+ORD-1811,2025-06-09,Footwear,North,2821,2,5642,1,Returned
+ORD-1812,2025-06-27,Electronics,North,4939,3,14817,1,Returned
+ORD-1813,2025-03-02,Beauty,East,3090,1,3090,0,Delivered
+ORD-1814,2025-05-02,Electronics,West,3393,3,10179,0,Delivered
+ORD-1815,2025-02-20,Footwear,South,2866,1,2866,1,Returned
+ORD-1816,2025-05-27,Clothing,West,3506,1,3506,1,Returned
+ORD-1817,2025-01-21,Footwear,South,1097,1,1097,1,Returned
+ORD-1818,2025-01-05,Footwear,North,1285,2,2570,0,Delivered
+ORD-1819,2025-04-02,Footwear,West,1479,3,4437,0,Delivered
+ORD-1820,2025-06-19,Footwear,South,870,1,870,0,Delivered
+ORD-1821,2025-03-02,Clothing,East,1705,1,1705,0,Delivered
+ORD-1822,2025-01-22,Electronics,North,3775,2,7550,0,Delivered
+ORD-1823,2025-05-29,Clothing,East,2155,3,6465,0,Delivered
+ORD-1824,2025-03-11,Electronics,North,449,3,1347,0,Delivered
+ORD-1825,2025-01-01,Home & Kitchen,West,2092,2,4184,0,Delivered
+ORD-1826,2025-05-13,Clothing,West,3639,2,7278,0,Delivered
+ORD-1827,2025-01-12,Beauty,North,2053,3,6159,0,Delivered
+ORD-1828,2025-03-31,Home & Kitchen,North,3054,2,6108,0,Delivered
+ORD-1829,2025-02-15,Footwear,North,1703,3,5109,1,Returned
+ORD-1830,2025-02-03,Electronics,West,3585,3,10755,1,Returned
+ORD-1831,2025-06-26,Footwear,South,3771,1,3771,1,Returned
+ORD-1832,2025-03-19,Beauty,East,3992,1,3992,0,Delivered
+ORD-1833,2025-02-14,Clothing,East,3626,3,10878,0,Delivered
+ORD-1834,2025-06-04,Home & Kitchen,West,243,3,729,1,Returned
+ORD-1835,2025-03-14,Footwear,East,3812,3,11436,0,Delivered
+ORD-1836,2025-01-26,Electronics,North,2818,3,8454,0,Delivered
+ORD-1837,2025-02-16,Clothing,South,4878,3,14634,1,Returned
+ORD-1838,2025-05-01,Clothing,East,3363,3,10089,0,Delivered
+ORD-1839,2025-02-25,Electronics,South,1488,2,2976,0,Delivered
+ORD-1840,2025-04-04,Clothing,North,3142,3,9426,0,Delivered
+ORD-1841,2025-04-17,Electronics,East,419,2,838,0,Delivered
+ORD-1842,2025-03-04,Electronics,West,2125,2,4250,0,Delivered
+ORD-1843,2025-02-17,Electronics,South,3172,3,9516,0,Delivered
+ORD-1844,2025-03-02,Beauty,North,3713,3,11139,0,Delivered
+ORD-1845,2025-03-22,Clothing,South,2648,2,5296,0,Delivered
+ORD-1846,2025-01-26,Beauty,East,3671,2,7342,0,Delivered
+ORD-1847,2025-02-05,Clothing,East,2974,3,8922,1,Returned
+ORD-1848,2025-01-01,Clothing,West,1190,3,3570,1,Returned
+ORD-1849,2025-01-08,Clothing,North,3146,2,6292,1,Returned
+ORD-1850,2025-04-23,Clothing,North,2012,2,4024,1,Returned
+ORD-1851,2025-04-09,Electronics,West,1003,2,2006,0,Delivered
+ORD-1852,2025-06-29,Home & Kitchen,West,689,1,689,0,Delivered
+ORD-1853,2025-02-16,Electronics,North,3756,2,7512,0,Delivered
+ORD-1854,2025-05-07,Home & Kitchen,South,1693,1,1693,0,Delivered
+ORD-1855,2025-02-25,Home & Kitchen,South,3845,3,11535,0,Delivered
+ORD-1856,2025-01-14,Electronics,West,3091,3,9273,1,Returned
+ORD-1857,2025-01-28,Electronics,South,1905,2,3810,0,Delivered
+ORD-1858,2025-03-19,Footwear,North,3716,3,11148,0,Delivered
+ORD-1859,2025-05-10,Clothing,East,3540,3,10620,0,Delivered
+ORD-1860,2025-04-19,Electronics,East,253,3,759,0,Delivered
+ORD-1861,2025-06-03,Beauty,South,2775,3,8325,0,Delivered
+ORD-1862,2025-01-14,Electronics,West,3791,1,3791,0,Delivered
+ORD-1863,2025-02-25,Home & Kitchen,West,815,1,815,0,Delivered
+ORD-1864,2025-04-25,Beauty,West,1154,2,2308,0,Delivered
+ORD-1865,2025-01-07,Electronics,West,2633,2,5266,0,Delivered
+ORD-1866,2025-01-03,Electronics,West,1829,2,3658,0,Delivered
+ORD-1867,2025-04-21,Electronics,South,2981,3,8943,1,Returned
+ORD-1868,2025-05-31,Clothing,East,849,3,2547,0,Delivered
+ORD-1869,2025-04-17,Electronics,East,2547,1,2547,1,Returned
+ORD-1870,2025-01-18,Home & Kitchen,South,4690,1,4690,0,Delivered
+ORD-1871,2025-02-07,Electronics,West,3478,2,6956,0,Delivered
+ORD-1872,2025-04-25,Clothing,South,2840,1,2840,1,Returned
+ORD-1873,2025-01-15,Beauty,East,4001,1,4001,0,Delivered
+ORD-1874,2025-04-29,Footwear,North,2761,1,2761,0,Delivered
+ORD-1875,2025-01-28,Home & Kitchen,South,3449,1,3449,0,Delivered
+ORD-1876,2025-02-08,Clothing,West,570,1,570,0,Delivered
+ORD-1877,2025-01-17,Home & Kitchen,East,1057,2,2114,0,Delivered
+ORD-1878,2025-03-27,Clothing,East,4953,2,9906,0,Delivered
+ORD-1879,2025-05-06,Clothing,East,583,1,583,0,Delivered
+ORD-1880,2025-02-13,Electronics,East,4077,2,8154,0,Delivered
+ORD-1881,2025-01-25,Footwear,West,2752,3,8256,0,Delivered
+ORD-1882,2025-05-25,Clothing,North,4534,1,4534,0,Delivered
+ORD-1883,2025-01-13,Electronics,East,4490,3,13470,0,Delivered
+ORD-1884,2025-01-25,Clothing,South,2925,2,5850,1,Returned
+ORD-1885,2025-03-09,Clothing,North,4234,2,8468,1,Returned
+ORD-1886,2025-05-18,Footwear,East,3493,3,10479,1,Returned
+ORD-1887,2025-03-08,Home & Kitchen,North,4451,2,8902,0,Delivered
+ORD-1888,2025-04-19,Footwear,South,4188,1,4188,0,Delivered
+ORD-1889,2025-05-26,Electronics,East,1122,3,3366,0,Delivered
+ORD-1890,2025-04-21,Clothing,South,3115,1,3115,0,Delivered
+ORD-1891,2025-04-21,Clothing,West,3150,3,9450,1,Returned
+ORD-1892,2025-02-03,Electronics,East,3246,2,6492,0,Delivered
+ORD-1893,2025-04-21,Clothing,East,1174,3,3522,0,Delivered
+ORD-1894,2025-01-08,Footwear,East,1430,3,4290,0,Delivered
+ORD-1895,2025-06-17,Electronics,East,2635,1,2635,0,Delivered
+ORD-1896,2025-04-23,Clothing,West,2014,2,4028,0,Delivered
+ORD-1897,2025-03-24,Electronics,East,3134,1,3134,0,Delivered
+ORD-1898,2025-02-11,Electronics,North,1563,2,3126,0,Delivered
+ORD-1899,2025-06-18,Electronics,East,4140,1,4140,0,Delivered
+ORD-1900,2025-04-11,Beauty,West,403,3,1209,0,Delivered
+ORD-1901,2025-01-06,Footwear,East,360,1,360,1,Returned
+ORD-1902,2025-06-29,Beauty,North,4687,2,9374,0,Delivered
+ORD-1903,2025-01-26,Clothing,West,968,2,1936,0,Delivered
+ORD-1904,2025-03-05,Electronics,West,3948,3,11844,0,Delivered
+ORD-1905,2025-02-28,Clothing,North,2781,2,5562,1,Returned
+ORD-1906,2025-04-19,Clothing,North,1293,1,1293,0,Delivered
+ORD-1907,2025-05-01,Footwear,North,4700,3,14100,0,Delivered
+ORD-1908,2025-02-02,Electronics,North,807,2,1614,0,Delivered
+ORD-1909,2025-05-30,Clothing,North,1740,2,3480,0,Delivered
+ORD-1910,2025-01-21,Electronics,West,3075,1,3075,1,Returned
+ORD-1911,2025-03-11,Clothing,West,3391,1,3391,1,Returned
+ORD-1912,2025-04-22,Home & Kitchen,East,2037,3,6111,0,Delivered
+ORD-1913,2025-01-04,Clothing,East,889,2,1778,1,Returned
+ORD-1914,2025-04-04,Clothing,South,3959,1,3959,0,Delivered
+ORD-1915,2025-03-16,Clothing,East,3149,3,9447,1,Returned
+ORD-1916,2025-03-03,Clothing,East,2303,2,4606,1,Returned
+ORD-1917,2025-04-04,Footwear,North,565,2,1130,1,Returned
+ORD-1918,2025-04-05,Footwear,North,3775,3,11325,0,Delivered
+ORD-1919,2025-06-01,Beauty,East,4750,3,14250,0,Delivered
+ORD-1920,2025-02-24,Footwear,South,4399,1,4399,0,Delivered
+ORD-1921,2025-05-17,Clothing,North,4372,2,8744,1,Returned
+ORD-1922,2025-05-11,Home & Kitchen,East,4525,2,9050,0,Delivered
+ORD-1923,2025-01-31,Clothing,East,2578,2,5156,0,Delivered
+ORD-1924,2025-02-09,Clothing,West,1405,3,4215,1,Returned
+ORD-1925,2025-02-05,Footwear,South,4039,1,4039,0,Delivered
+ORD-1926,2025-06-01,Electronics,West,2935,2,5870,1,Returned
+ORD-1927,2025-01-06,Beauty,South,3547,3,10641,0,Delivered
+ORD-1928,2025-03-07,Clothing,North,1875,2,3750,1,Returned
+ORD-1929,2025-03-16,Home & Kitchen,South,498,1,498,0,Delivered
+ORD-1930,2025-01-04,Home & Kitchen,East,1156,2,2312,0,Delivered
+ORD-1931,2025-03-20,Footwear,East,1314,1,1314,0,Delivered
+ORD-1932,2025-05-14,Home & Kitchen,South,2705,1,2705,0,Delivered
+ORD-1933,2025-04-28,Home & Kitchen,South,1674,2,3348,0,Delivered
+ORD-1934,2025-04-23,Electronics,South,4660,2,9320,0,Delivered
+ORD-1935,2025-04-04,Clothing,West,4646,1,4646,0,Delivered
+ORD-1936,2025-06-28,Electronics,South,3926,3,11778,0,Delivered
+ORD-1937,2025-03-03,Home & Kitchen,North,3671,1,3671,0,Delivered
+ORD-1938,2025-03-20,Clothing,West,3028,2,6056,1,Returned
+ORD-1939,2025-05-16,Home & Kitchen,West,3050,2,6100,0,Delivered
+ORD-1940,2025-01-26,Electronics,South,2706,3,8118,0,Delivered
+ORD-1941,2025-06-28,Electronics,North,3970,1,3970,0,Delivered
+ORD-1942,2025-06-22,Home & Kitchen,West,3164,1,3164,1,Returned
+ORD-1943,2025-02-13,Electronics,East,4794,1,4794,0,Delivered
+ORD-1944,2025-05-13,Electronics,West,1149,2,2298,0,Delivered
+ORD-1945,2025-03-11,Electronics,South,4803,1,4803,0,Delivered
+ORD-1946,2025-06-03,Beauty,North,3050,3,9150,0,Delivered
+ORD-1947,2025-04-28,Home & Kitchen,South,365,2,730,0,Delivered
+ORD-1948,2025-03-09,Clothing,East,3686,2,7372,0,Delivered
+ORD-1949,2025-01-19,Clothing,East,2709,1,2709,0,Delivered
+ORD-1950,2025-01-20,Clothing,East,1119,3,3357,0,Delivered
+ORD-1951,2025-04-23,Footwear,South,313,2,626,1,Returned
+ORD-1952,2025-05-20,Home & Kitchen,West,3704,2,7408,0,Delivered
+ORD-1953,2025-02-16,Electronics,South,1191,1,1191,0,Delivered
+ORD-1954,2025-01-01,Electronics,North,4039,1,4039,0,Delivered
+ORD-1955,2025-03-31,Electronics,West,1458,3,4374,0,Delivered
+ORD-1956,2025-05-22,Home & Kitchen,East,3626,1,3626,0,Delivered
+ORD-1957,2025-03-05,Footwear,South,714,3,2142,0,Delivered
+ORD-1958,2025-02-07,Clothing,East,3396,2,6792,0,Delivered
+ORD-1959,2025-02-06,Electronics,East,4634,3,13902,0,Delivered
+ORD-1960,2025-05-06,Electronics,North,2784,3,8352,0,Delivered
+ORD-1961,2025-05-19,Beauty,West,267,3,801,0,Delivered
+ORD-1962,2025-04-10,Clothing,North,1796,2,3592,0,Delivered
+ORD-1963,2025-03-18,Footwear,North,4678,1,4678,1,Returned
+ORD-1964,2025-01-03,Home & Kitchen,North,218,2,436,0,Delivered
+ORD-1965,2025-06-10,Clothing,East,2930,1,2930,1,Returned
+ORD-1966,2025-05-14,Electronics,North,3721,3,11163,1,Returned
+ORD-1967,2025-06-27,Electronics,North,772,3,2316,0,Delivered
+ORD-1968,2025-01-10,Home & Kitchen,West,2458,3,7374,0,Delivered
+ORD-1969,2025-01-05,Footwear,West,3102,3,9306,0,Delivered
+ORD-1970,2025-05-31,Home & Kitchen,North,850,3,2550,0,Delivered
+ORD-1971,2025-05-18,Clothing,West,2787,1,2787,0,Delivered
+ORD-1972,2025-06-21,Electronics,West,3462,1,3462,1,Returned
+ORD-1973,2025-05-10,Beauty,North,1538,3,4614,0,Delivered
+ORD-1974,2025-01-13,Footwear,East,3834,2,7668,0,Delivered
+ORD-1975,2025-06-17,Clothing,North,3027,2,6054,1,Returned
+ORD-1976,2025-05-10,Beauty,West,2417,3,7251,0,Delivered
+ORD-1977,2025-03-25,Home & Kitchen,East,3739,1,3739,0,Delivered
+ORD-1978,2025-03-06,Home & Kitchen,South,1237,2,2474,0,Delivered
+ORD-1979,2025-03-04,Home & Kitchen,East,4583,2,9166,0,Delivered
+ORD-1980,2025-04-11,Footwear,West,4178,2,8356,0,Delivered
+ORD-1981,2025-03-14,Home & Kitchen,East,3161,3,9483,0,Delivered
+ORD-1982,2025-01-17,Electronics,North,3426,2,6852,0,Delivered
+ORD-1983,2025-01-09,Clothing,South,1298,2,2596,1,Returned
+ORD-1984,2025-05-23,Beauty,South,2524,2,5048,0,Delivered
+ORD-1985,2025-06-01,Electronics,South,1139,2,2278,0,Delivered
+ORD-1986,2025-02-07,Clothing,West,3916,1,3916,0,Delivered
+ORD-1987,2025-06-12,Clothing,West,3614,3,10842,1,Returned
+ORD-1988,2025-04-04,Clothing,South,1648,3,4944,0,Delivered
+ORD-1989,2025-04-05,Home & Kitchen,East,770,1,770,0,Delivered
+ORD-1990,2025-02-18,Beauty,South,3104,1,3104,0,Delivered
+ORD-1991,2025-03-10,Electronics,East,2705,3,8115,0,Delivered
+ORD-1992,2025-03-03,Electronics,East,1117,2,2234,0,Delivered
+ORD-1993,2025-06-27,Electronics,West,2074,2,4148,0,Delivered
+ORD-1994,2025-03-19,Footwear,East,1878,3,5634,0,Delivered
+ORD-1995,2025-04-27,Home & Kitchen,South,815,2,1630,0,Delivered
+ORD-1996,2025-04-30,Clothing,West,4701,1,4701,0,Delivered
+ORD-1997,2025-05-17,Footwear,North,1949,2,3898,0,Delivered
+ORD-1998,2025-06-11,Footwear,North,4025,2,8050,1,Returned
+ORD-1999,2025-03-17,Footwear,West,4388,2,8776,1,Returned
+ORD-2000,2025-02-04,Beauty,South,2677,3,8031,0,Delivered
+ORD-2001,2025-01-01,Clothing,North,4949,1,4949,1,Returned
+ORD-2002,2025-02-09,Footwear,North,3705,2,7410,1,Returned
+ORD-2003,2025-03-05,Clothing,East,3675,3,11025,0,Delivered
+ORD-2004,2025-05-30,Footwear,East,4729,2,9458,1,Returned
+ORD-2005,2025-03-01,Home & Kitchen,South,1335,1,1335,0,Delivered
+ORD-2006,2025-03-05,Footwear,West,4200,2,8400,1,Returned
+ORD-2007,2025-04-03,Home & Kitchen,South,574,1,574,0,Delivered
+ORD-2008,2025-03-13,Electronics,West,406,2,812,0,Delivered
+ORD-2009,2025-01-11,Clothing,North,1519,1,1519,1,Returned
+ORD-2010,2025-04-15,Beauty,East,1341,2,2682,0,Delivered
+ORD-2011,2025-01-14,Beauty,South,4827,1,4827,0,Delivered
+ORD-2012,2025-03-01,Electronics,South,2890,2,5780,0,Delivered
+ORD-2013,2025-01-30,Electronics,West,3455,2,6910,0,Delivered
+ORD-2014,2025-02-04,Electronics,West,289,3,867,0,Delivered
+ORD-2015,2025-06-14,Home & Kitchen,South,4308,3,12924,0,Delivered
+ORD-2016,2025-01-05,Footwear,West,3220,1,3220,0,Delivered
+ORD-2017,2025-03-24,Electronics,South,2057,2,4114,0,Delivered
+ORD-2018,2025-05-03,Clothing,South,1004,1,1004,0,Delivered
+ORD-2019,2025-03-19,Footwear,South,1144,3,3432,1,Returned
+ORD-2020,2025-06-03,Home & Kitchen,North,2989,1,2989,0,Delivered
+ORD-2021,2025-03-03,Clothing,West,4075,1,4075,1,Returned
+ORD-2022,2025-05-12,Home & Kitchen,East,1810,3,5430,0,Delivered
+ORD-2023,2025-03-30,Clothing,East,3123,2,6246,1,Returned
+ORD-2024,2025-02-11,Clothing,West,4082,1,4082,0,Delivered
+ORD-2025,2025-03-30,Home & Kitchen,South,3421,3,10263,0,Delivered
+ORD-2026,2025-05-26,Home & Kitchen,East,4591,2,9182,0,Delivered
+ORD-2027,2025-02-09,Footwear,East,4935,3,14805,0,Delivered
+ORD-2028,2025-03-13,Home & Kitchen,West,2587,1,2587,0,Delivered
+ORD-2029,2025-02-08,Footwear,East,4923,2,9846,0,Delivered
+ORD-2030,2025-04-14,Electronics,South,1141,2,2282,0,Delivered
+ORD-2031,2025-01-14,Clothing,West,2766,3,8298,1,Returned
+ORD-2032,2025-02-01,Electronics,South,1175,3,3525,0,Delivered
+ORD-2033,2025-06-28,Electronics,East,1154,3,3462,0,Delivered
+ORD-2034,2025-05-05,Home & Kitchen,East,1462,2,2924,0,Delivered
+ORD-2035,2025-06-15,Beauty,South,1143,2,2286,0,Delivered
+ORD-2036,2025-04-07,Electronics,North,2402,1,2402,0,Delivered
+ORD-2037,2025-01-23,Clothing,East,3527,2,7054,0,Delivered
+ORD-2038,2025-03-04,Footwear,North,4474,1,4474,0,Delivered
+ORD-2039,2025-05-23,Electronics,East,2459,3,7377,0,Delivered
+ORD-2040,2025-06-02,Home & Kitchen,North,2028,3,6084,1,Returned
+ORD-2041,2025-05-25,Home & Kitchen,North,1457,2,2914,0,Delivered
+ORD-2042,2025-02-22,Home & Kitchen,North,664,3,1992,0,Delivered
+ORD-2043,2025-04-14,Electronics,South,3494,3,10482,0,Delivered
+ORD-2044,2025-04-14,Clothing,North,1430,2,2860,0,Delivered
+ORD-2045,2025-06-28,Footwear,North,2854,1,2854,0,Delivered
+ORD-2046,2025-02-08,Home & Kitchen,North,1084,2,2168,0,Delivered
+ORD-2047,2025-06-28,Electronics,East,4005,1,4005,0,Delivered
+ORD-2048,2025-05-14,Footwear,North,4056,2,8112,1,Returned
+ORD-2049,2025-03-08,Electronics,East,3335,2,6670,0,Delivered
+ORD-2050,2025-05-15,Home & Kitchen,North,1124,3,3372,0,Delivered
+ORD-2051,2025-06-28,Electronics,North,4789,2,9578,0,Delivered
+ORD-2052,2025-02-11,Beauty,South,1746,2,3492,0,Delivered
+ORD-2053,2025-01-15,Clothing,East,1294,1,1294,0,Delivered
+ORD-2054,2025-04-21,Clothing,North,2611,3,7833,0,Delivered
+ORD-2055,2025-06-06,Electronics,East,2817,1,2817,0,Delivered
+ORD-2056,2025-02-02,Clothing,East,962,1,962,1,Returned
+ORD-2057,2025-06-04,Footwear,West,2523,3,7569,0,Delivered
+ORD-2058,2025-06-13,Beauty,South,4345,3,13035,0,Delivered
+ORD-2059,2025-06-06,Clothing,South,2975,3,8925,0,Delivered
+ORD-2060,2025-02-07,Clothing,South,4859,2,9718,1,Returned
+ORD-2061,2025-04-07,Home & Kitchen,West,3355,3,10065,0,Delivered
+ORD-2062,2025-06-04,Footwear,West,4170,3,12510,1,Returned
+ORD-2063,2025-02-02,Home & Kitchen,South,2240,3,6720,0,Delivered
+ORD-2064,2025-03-27,Clothing,West,783,1,783,0,Delivered
+ORD-2065,2025-03-07,Clothing,West,4531,1,4531,1,Returned
+ORD-2066,2025-01-10,Home & Kitchen,West,2303,2,4606,0,Delivered
+ORD-2067,2025-01-05,Electronics,South,2142,1,2142,0,Delivered
+ORD-2068,2025-05-03,Home & Kitchen,South,4655,2,9310,0,Delivered
+ORD-2069,2025-03-15,Clothing,South,309,1,309,0,Delivered
+ORD-2070,2025-04-07,Footwear,West,391,3,1173,0,Delivered
+ORD-2071,2025-04-28,Electronics,South,1103,1,1103,0,Delivered
+ORD-2072,2025-02-07,Home & Kitchen,West,1061,2,2122,0,Delivered
+ORD-2073,2025-05-21,Clothing,North,1283,1,1283,0,Delivered
+ORD-2074,2025-06-08,Home & Kitchen,West,849,3,2547,1,Returned
+ORD-2075,2025-02-16,Electronics,East,4334,2,8668,0,Delivered
+ORD-2076,2025-04-19,Home & Kitchen,South,3811,3,11433,0,Delivered
+ORD-2077,2025-06-29,Home & Kitchen,South,836,3,2508,0,Delivered
+ORD-2078,2025-01-15,Home & Kitchen,East,1236,2,2472,0,Delivered
+ORD-2079,2025-06-06,Home & Kitchen,West,4331,3,12993,0,Delivered
+ORD-2080,2025-05-16,Home & Kitchen,North,2348,3,7044,0,Delivered
+ORD-2081,2025-01-05,Footwear,East,4065,1,4065,1,Returned
+ORD-2082,2025-06-06,Clothing,East,3357,3,10071,0,Delivered
+ORD-2083,2025-02-16,Footwear,West,3787,3,11361,0,Delivered
+ORD-2084,2025-03-09,Clothing,South,3494,3,10482,1,Returned
+ORD-2085,2025-03-17,Electronics,West,4461,3,13383,0,Delivered
+ORD-2086,2025-06-22,Electronics,East,2630,2,5260,0,Delivered
+ORD-2087,2025-05-10,Clothing,East,2079,1,2079,0,Delivered
+ORD-2088,2025-06-04,Footwear,South,4166,3,12498,1,Returned
+ORD-2089,2025-04-05,Home & Kitchen,South,3913,3,11739,0,Delivered
+ORD-2090,2025-04-25,Footwear,South,4326,2,8652,0,Delivered
+ORD-2091,2025-06-13,Clothing,West,4306,3,12918,0,Delivered
+ORD-2092,2025-02-05,Clothing,South,2211,2,4422,0,Delivered
+ORD-2093,2025-01-26,Electronics,East,3573,1,3573,0,Delivered
+ORD-2094,2025-02-12,Clothing,East,2343,1,2343,1,Returned
+ORD-2095,2025-01-27,Clothing,North,2700,3,8100,0,Delivered
+ORD-2096,2025-03-10,Electronics,West,4781,3,14343,0,Delivered
+ORD-2097,2025-05-28,Electronics,North,1489,3,4467,0,Delivered
+ORD-2098,2025-01-11,Home & Kitchen,East,1647,2,3294,0,Delivered
+ORD-2099,2025-03-15,Home & Kitchen,North,3399,3,10197,0,Delivered
+ORD-2100,2025-04-14,Beauty,East,2143,3,6429,0,Delivered
+ORD-2101,2025-02-07,Beauty,North,3383,1,3383,0,Delivered
+ORD-2102,2025-05-14,Home & Kitchen,South,3416,3,10248,0,Delivered
+ORD-2103,2025-01-23,Clothing,North,3336,1,3336,0,Delivered
+ORD-2104,2025-02-16,Home & Kitchen,South,3518,3,10554,0,Delivered
+ORD-2105,2025-03-31,Footwear,South,2982,1,2982,1,Returned
+ORD-2106,2025-02-15,Electronics,West,1190,3,3570,0,Delivered
+ORD-2107,2025-04-17,Clothing,South,2353,1,2353,0,Delivered
+ORD-2108,2025-05-20,Footwear,South,425,2,850,0,Delivered
+ORD-2109,2025-05-21,Clothing,North,976,1,976,0,Delivered
+ORD-2110,2025-04-14,Home & Kitchen,East,3037,1,3037,0,Delivered
+ORD-2111,2025-04-21,Home & Kitchen,West,887,1,887,0,Delivered
+ORD-2112,2025-04-14,Electronics,South,729,3,2187,0,Delivered
+ORD-2113,2025-03-01,Clothing,West,3642,3,10926,0,Delivered
+ORD-2114,2025-06-20,Clothing,North,2353,3,7059,1,Returned
+ORD-2115,2025-04-10,Electronics,South,1494,2,2988,0,Delivered
+ORD-2116,2025-03-09,Electronics,North,1726,2,3452,0,Delivered
+ORD-2117,2025-05-13,Footwear,West,4974,1,4974,0,Delivered
+ORD-2118,2025-04-30,Clothing,North,3096,2,6192,0,Delivered
+ORD-2119,2025-02-06,Clothing,West,3303,1,3303,0,Delivered
+ORD-2120,2025-03-13,Clothing,North,2640,1,2640,0,Delivered
+ORD-2121,2025-05-07,Beauty,West,4335,1,4335,0,Delivered
+ORD-2122,2025-04-16,Clothing,East,4002,2,8004,1,Returned
+ORD-2123,2025-04-02,Clothing,North,1044,3,3132,0,Delivered
+ORD-2124,2025-01-31,Footwear,North,646,2,1292,0,Delivered
+ORD-2125,2025-05-02,Footwear,East,4115,1,4115,1,Returned
+ORD-2126,2025-05-17,Electronics,East,3309,1,3309,1,Returned
+ORD-2127,2025-02-20,Footwear,North,1434,2,2868,0,Delivered
+ORD-2128,2025-01-29,Clothing,East,426,1,426,0,Delivered
+ORD-2129,2025-02-09,Clothing,South,4343,1,4343,0,Delivered
+ORD-2130,2025-02-10,Electronics,West,3159,2,6318,0,Delivered
+ORD-2131,2025-01-11,Electronics,West,2030,2,4060,0,Delivered
+ORD-2132,2025-05-31,Home & Kitchen,West,3979,2,7958,0,Delivered
+ORD-2133,2025-01-01,Clothing,South,386,1,386,0,Delivered
+ORD-2134,2025-02-15,Clothing,East,3077,1,3077,0,Delivered
+ORD-2135,2025-04-11,Home & Kitchen,East,2735,3,8205,0,Delivered
+ORD-2136,2025-05-29,Footwear,North,2132,3,6396,1,Returned
+ORD-2137,2025-03-31,Electronics,East,3124,2,6248,1,Returned
+ORD-2138,2025-04-20,Home & Kitchen,North,1048,3,3144,0,Delivered
+ORD-2139,2025-06-13,Electronics,South,2232,1,2232,0,Delivered
+ORD-2140,2025-02-26,Footwear,West,1452,3,4356,0,Delivered
+ORD-2141,2025-01-01,Home & Kitchen,West,2081,1,2081,0,Delivered
+ORD-2142,2025-03-04,Beauty,West,469,2,938,0,Delivered
+ORD-2143,2025-02-24,Electronics,East,1830,2,3660,0,Delivered
+ORD-2144,2025-04-25,Electronics,North,4605,1,4605,0,Delivered
+ORD-2145,2025-06-17,Clothing,North,3403,3,10209,0,Delivered
+ORD-2146,2025-05-23,Clothing,South,1774,2,3548,0,Delivered
+ORD-2147,2025-05-29,Electronics,East,3092,2,6184,0,Delivered
+ORD-2148,2025-06-24,Beauty,South,1895,3,5685,0,Delivered
+ORD-2149,2025-02-22,Electronics,North,3458,3,10374,0,Delivered
+ORD-2150,2025-05-17,Clothing,North,3462,1,3462,0,Delivered
+ORD-2151,2025-06-29,Footwear,West,1645,3,4935,0,Delivered
+ORD-2152,2025-02-26,Clothing,East,419,3,1257,0,Delivered
+ORD-2153,2025-04-27,Footwear,North,252,3,756,0,Delivered
+ORD-2154,2025-06-03,Electronics,West,1957,1,1957,0,Delivered
+ORD-2155,2025-06-18,Clothing,East,1866,1,1866,1,Returned
+ORD-2156,2025-02-04,Electronics,South,2985,2,5970,0,Delivered
+ORD-2157,2025-03-04,Electronics,East,919,1,919,0,Delivered
+ORD-2158,2025-01-25,Beauty,East,605,2,1210,0,Delivered
+ORD-2159,2025-03-31,Electronics,North,2494,3,7482,1,Returned
+ORD-2160,2025-03-16,Clothing,North,271,2,542,1,Returned
+ORD-2161,2025-02-07,Clothing,East,2253,2,4506,0,Delivered
+ORD-2162,2025-05-10,Clothing,North,1429,3,4287,0,Delivered
+ORD-2163,2025-05-15,Footwear,North,1767,2,3534,0,Delivered
+ORD-2164,2025-06-11,Electronics,North,3882,1,3882,0,Delivered
+ORD-2165,2025-04-01,Home & Kitchen,West,3153,1,3153,0,Delivered
+ORD-2166,2025-01-17,Beauty,West,4682,1,4682,0,Delivered
+ORD-2167,2025-05-08,Home & Kitchen,East,898,1,898,0,Delivered
+ORD-2168,2025-06-20,Beauty,North,1026,2,2052,0,Delivered
+ORD-2169,2025-04-18,Electronics,West,548,2,1096,0,Delivered
+ORD-2170,2025-06-28,Clothing,East,4108,3,12324,0,Delivered
+ORD-2171,2025-06-01,Clothing,North,507,2,1014,0,Delivered
+ORD-2172,2025-01-25,Home & Kitchen,South,3616,2,7232,0,Delivered
+ORD-2173,2025-06-29,Beauty,North,2534,2,5068,0,Delivered
+ORD-2174,2025-03-29,Clothing,North,3009,3,9027,1,Returned
+ORD-2175,2025-06-10,Home & Kitchen,West,3758,1,3758,0,Delivered
+ORD-2176,2025-06-26,Electronics,East,4678,2,9356,0,Delivered
+ORD-2177,2025-01-29,Home & Kitchen,East,3677,3,11031,1,Returned
+ORD-2178,2025-03-04,Clothing,West,4820,3,14460,0,Delivered
+ORD-2179,2025-05-30,Beauty,North,2886,3,8658,0,Delivered
+ORD-2180,2025-06-03,Home & Kitchen,South,3185,1,3185,0,Delivered
+ORD-2181,2025-06-05,Clothing,North,475,2,950,0,Delivered
+ORD-2182,2025-04-24,Electronics,North,2747,3,8241,0,Delivered
+ORD-2183,2025-02-18,Electronics,South,2964,1,2964,0,Delivered
+ORD-2184,2025-03-22,Electronics,West,536,3,1608,0,Delivered
+ORD-2185,2025-03-25,Clothing,East,2173,3,6519,0,Delivered
+ORD-2186,2025-04-15,Footwear,West,3179,3,9537,0,Delivered
+ORD-2187,2025-06-26,Home & Kitchen,West,4776,3,14328,0,Delivered
+ORD-2188,2025-05-28,Clothing,North,4168,3,12504,1,Returned
+ORD-2189,2025-04-28,Electronics,East,1110,1,1110,0,Delivered
+ORD-2190,2025-03-27,Footwear,East,2196,2,4392,0,Delivered
+ORD-2191,2025-03-04,Home & Kitchen,West,3329,2,6658,0,Delivered
+ORD-2192,2025-04-14,Electronics,South,4404,2,8808,0,Delivered
+ORD-2193,2025-02-18,Home & Kitchen,West,3957,2,7914,0,Delivered
+ORD-2194,2025-03-12,Clothing,South,527,1,527,1,Returned
+ORD-2195,2025-01-01,Electronics,East,1999,1,1999,0,Delivered
+ORD-2196,2025-05-21,Clothing,West,514,1,514,0,Delivered
+ORD-2197,2025-06-28,Clothing,North,3745,3,11235,0,Delivered
+ORD-2198,2025-05-03,Electronics,West,1334,3,4002,0,Delivered
+ORD-2199,2025-03-03,Beauty,East,2946,3,8838,0,Delivered
